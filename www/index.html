@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <meta name="theme-color" content="#0F0F0F"/>
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+  <title>Daily English</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg:#0F0F0F; --surface:#1A1A1A; --surface2:#242424;
+      --border:rgba(255,255,255,.07); --text:#F0EDE8; --muted:#888;
+      --accent:#F5C842; --accent2:#42C8F5; --purple:#C842F5;
+    }
+    *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+    html,body{height:100%;overflow:hidden;}
+    body{font-family:'Outfit',sans-serif;background:var(--bg);color:var(--text);display:flex;flex-direction:column;height:100dvh;}
+    .glow{position:fixed;pointer-events:none;z-index:0;border-radius:50%;filter:blur(100px);opacity:.1;}
+    .glow1{width:280px;height:280px;background:var(--accent);top:-80px;right:-60px;}
+    .glow2{width:220px;height:220px;background:var(--accent2);bottom:60px;left:-80px;}
+    .screen{position:relative;z-index:1;display:flex;flex-direction:column;height:100%;padding-top:env(safe-area-inset-top,0);}
+    .topbar{display:flex;align-items:center;justify-content:space-between;padding:14px 18px 10px;flex-shrink:0;}
+    .app-logo{display:flex;align-items:center;gap:9px;}
+    .logo-box{width:34px;height:34px;background:var(--accent);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:17px;}
+    .logo-name{font-family:'Syne',sans-serif;font-size:18px;font-weight:800;}
+    .streak{background:var(--surface);border:1px solid var(--border);border-radius:20px;padding:5px 12px;font-size:12px;font-weight:700;color:var(--accent);}
+    .date-bar{margin:0 18px 10px;padding:10px 14px;background:var(--surface);border-radius:12px;border:1px solid var(--border);display:flex;justify-content:space-between;align-items:center;font-size:13px;flex-shrink:0;}
+    .date-bar .lbl{color:var(--muted);}.date-bar .val{font-weight:600;}
+    .cat-row{display:flex;gap:7px;padding:0 18px 10px;overflow-x:auto;scrollbar-width:none;flex-shrink:0;}
+    .cat-row::-webkit-scrollbar{display:none;}
+    .cat-btn{padding:6px 13px;border-radius:20px;border:1px solid var(--border);background:transparent;color:var(--muted);font-size:12px;font-weight:600;cursor:pointer;white-space:nowrap;transition:all .2s;font-family:'Outfit',sans-serif;}
+    .cat-btn.active{background:var(--accent);color:#000;border-color:var(--accent);}
+    .lang-row{display:flex;align-items:center;justify-content:space-between;padding:0 18px 8px;flex-shrink:0;}
+    .lang-lbl{font-size:11px;color:var(--muted);font-weight:700;letter-spacing:.5px;}
+    .lang-pills{display:flex;gap:5px;}
+    .l-pill{padding:5px 11px;border-radius:20px;font-size:11px;font-weight:700;border:1px solid var(--border);background:transparent;color:var(--muted);cursor:pointer;transition:all .2s;font-family:'Outfit',sans-serif;}
+    .l-pill.active{background:var(--surface2);color:var(--text);border-color:rgba(255,255,255,.25);}
+    .prog-wrap{padding:0 18px 8px;flex-shrink:0;}
+    .prog-head{display:flex;justify-content:space-between;font-size:11px;color:var(--muted);margin-bottom:5px;}
+    .prog-bar{height:3px;background:var(--surface2);border-radius:2px;overflow:hidden;}
+    .prog-fill{height:100%;background:var(--accent);border-radius:2px;width:0%;transition:width .5s;}
+    .content{flex:1;padding:0 18px;overflow-y:auto;-webkit-overflow-scrolling:touch;}
+    .s-card{background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:14px;margin-bottom:11px;position:relative;overflow:hidden;opacity:0;transform:translateY(14px);transition:opacity .4s,transform .4s;}
+    .s-card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px;}
+    .s-card:nth-child(1)::before{background:var(--accent);}
+    .s-card:nth-child(2)::before{background:var(--accent2);}
+    .s-card:nth-child(3)::before{background:var(--purple);}
+    .s-card.vis{opacity:1;transform:translateY(0);}
+    .c-tag{font-size:10px;color:var(--muted);font-weight:700;letter-spacing:1px;margin-bottom:9px;}
+    .s-row{display:flex;align-items:flex-start;gap:9px;margin-bottom:5px;}
+    .s-en{font-size:16px;font-weight:700;color:var(--text);flex:1;line-height:1.4;}
+    .s-fr{font-size:14px;font-weight:600;color:var(--accent2);flex:1;line-height:1.4;}
+    .spk{width:32px;height:32px;border-radius:50%;background:var(--surface2);border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:14px;color:var(--text);flex-shrink:0;transition:background .2s;}
+    .spk.en-s:active{background:var(--accent);color:#000;}
+    .spk.fr-s:active{background:var(--accent2);color:#000;}
+    .spk.sp-en{background:var(--accent);color:#000;animation:pp .5s ease infinite alternate;}
+    .spk.sp-fr{background:var(--accent2);color:#000;animation:pp .5s ease infinite alternate;}
+    @keyframes pp{from{transform:scale(1)}to{transform:scale(1.15)}}
+    .div-line{height:1px;background:var(--border);margin:8px 0;}
+    .s-ar{font-size:13px;direction:rtl;text-align:right;color:var(--muted);line-height:1.6;}
+    .loading{display:flex;flex-direction:column;align-items:center;gap:14px;padding:60px 0;color:var(--muted);font-size:14px;}
+    .dots{display:flex;gap:6px;}
+    .dot{width:8px;height:8px;border-radius:50%;background:var(--accent);opacity:.3;animation:db .8s ease infinite;}
+    .dot:nth-child(2){animation-delay:.15s;}.dot:nth-child(3){animation-delay:.3s;}
+    @keyframes db{0%,80%,100%{opacity:.3;transform:scale(1)}40%{opacity:1;transform:scale(1.3)}}
+    .bottom{padding:12px 18px calc(12px + env(safe-area-inset-bottom,0));flex-shrink:0;}
+    .refresh-btn{width:100%;padding:15px;background:var(--accent);color:#000;border:none;border-radius:14px;font-family:'Outfit',sans-serif;font-size:15px;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;transition:opacity .2s;}
+    .refresh-btn:active{opacity:.8;}
+    .refresh-btn:disabled{opacity:.4;pointer-events:none;}
+    .ri{display:inline-block;font-size:17px;}
+  </style>
+</head>
+<body>
+  <div class="glow glow1"></div>
+  <div class="glow glow2"></div>
+  <div class="screen">
+    <div class="topbar">
+      <div class="app-logo">
+        <div class="logo-box">📖</div>
+        <span class="logo-name">Daily English</span>
+      </div>
+      <div class="streak">🔥 <span id="streak">0</span> days</div>
+    </div>
+    <div class="date-bar">
+      <span class="lbl">Today's lesson</span>
+      <span class="val" id="date-val"></span>
+    </div>
+    <div class="cat-row" id="cat-row">
+      <button class="cat-btn active" data-cat="0">💼 Work</button>
+      <button class="cat-btn" data-cat="1">🛒 Shopping</button>
+      <button class="cat-btn" data-cat="2">🏥 Health</button>
+      <button class="cat-btn" data-cat="3">🤝 Social</button>
+      <button class="cat-btn" data-cat="4">✈️ Travel</button>
+    </div>
+    <div class="lang-row">
+      <span class="lang-lbl">SHOW</span>
+      <div class="lang-pills">
+        <button class="l-pill active" data-lang="both">EN + FR</button>
+        <button class="l-pill" data-lang="en">🇬🇧 EN</button>
+        <button class="l-pill" data-lang="fr">🇫🇷 FR</button>
+      </div>
+    </div>
+    <div class="prog-wrap">
+      <div class="prog-head"><span>Progress</span><span id="prog-txt">0 / 3</span></div>
+      <div class="prog-bar"><div class="prog-fill" id="prog-fill"></div></div>
+    </div>
+    <div class="content" id="content">
+      <div class="loading">
+        <div class="dots"><div class="dot"></div><div class="dot"></div><div class="dot"></div></div>
+        <span>Loading sentences…</span>
+      </div>
+    </div>
+    <div class="bottom">
+      <button class="refresh-btn" id="refresh-btn" onclick="loadSentences()">
+        <span class="ri">↻</span> New Sentences
+      </button>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

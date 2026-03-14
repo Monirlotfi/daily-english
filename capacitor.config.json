@@ -1,0 +1,24 @@
+{
+  "appId": "com.dailyenglish.app",
+  "appName": "Daily English",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1000,
+      "backgroundColor": "#0F0F0F",
+      "showSpinner": false,
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP"
+    },
+    "StatusBar": {
+      "style": "Dark",
+      "backgroundColor": "#0F0F0F",
+      "overlaysWebView": false
+    }
+  }
+}

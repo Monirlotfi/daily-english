@@ -1,0 +1,3008 @@
+[
+  {
+    "cat": 0,
+    "en": "Can you send me the report?",
+    "fr": "Pouvez-vous m'envoyer le rapport?",
+    "ar": "واش تقدر تسيفطلي التقرير؟"
+  },
+  {
+    "cat": 0,
+    "en": "The meeting starts at 9 AM.",
+    "fr": "La réunion commence à 9h.",
+    "ar": "الاجتماع كيبدا من التاسعة."
+  },
+  {
+    "cat": 0,
+    "en": "I need your signature here.",
+    "fr": "J'ai besoin de votre signature ici.",
+    "ar": "خصني توقيعك هنا."
+  },
+  {
+    "cat": 0,
+    "en": "Please review this document.",
+    "fr": "Veuillez examiner ce document.",
+    "ar": "عافاك شوف هاد الوثيقة."
+  },
+  {
+    "cat": 0,
+    "en": "The deadline is tomorrow.",
+    "fr": "La date limite est demain.",
+    "ar": "الأجل هو غدا."
+  },
+  {
+    "cat": 0,
+    "en": "I have a meeting at 3 PM.",
+    "fr": "J'ai une réunion à 15h.",
+    "ar": "عندي اجتماع من الثالثة."
+  },
+  {
+    "cat": 0,
+    "en": "Can we reschedule the meeting?",
+    "fr": "Pouvons-nous reporter la réunion?",
+    "ar": "واش نقدرو نبدلو وقت الاجتماع؟"
+  },
+  {
+    "cat": 0,
+    "en": "I will send you the files.",
+    "fr": "Je vous enverrai les fichiers.",
+    "ar": "غادي نسيفط ليك الملفات."
+  },
+  {
+    "cat": 0,
+    "en": "Please call me back.",
+    "fr": "Veuillez me rappeler.",
+    "ar": "عافاك عاود تيليفوني."
+  },
+  {
+    "cat": 0,
+    "en": "I am working from home today.",
+    "fr": "Je travaille depuis chez moi aujourd'hui.",
+    "ar": "كنخدم من الدار اليوم."
+  },
+  {
+    "cat": 0,
+    "en": "The project is almost done.",
+    "fr": "Le projet est presque terminé.",
+    "ar": "المشروع قريب يكمل."
+  },
+  {
+    "cat": 0,
+    "en": "We need more time.",
+    "fr": "Nous avons besoin de plus de temps.",
+    "ar": "خصنا وقت زيادة."
+  },
+  {
+    "cat": 0,
+    "en": "I will be late today.",
+    "fr": "Je serai en retard aujourd'hui.",
+    "ar": "غادي نوصل متأخر اليوم."
+  },
+  {
+    "cat": 0,
+    "en": "Can you help me with this?",
+    "fr": "Pouvez-vous m'aider avec ça?",
+    "ar": "واش تقدر تعاونني فهاد الشي؟"
+  },
+  {
+    "cat": 0,
+    "en": "I need to talk to the manager.",
+    "fr": "J'ai besoin de parler au directeur.",
+    "ar": "خصني نهضر مع المدير."
+  },
+  {
+    "cat": 0,
+    "en": "Please confirm by email.",
+    "fr": "Veuillez confirmer par email.",
+    "ar": "عافاك أكد بالإيميل."
+  },
+  {
+    "cat": 0,
+    "en": "The office is closed today.",
+    "fr": "Le bureau est fermé aujourd'hui.",
+    "ar": "المكتب مسدود اليوم."
+  },
+  {
+    "cat": 0,
+    "en": "I have a question for you.",
+    "fr": "J'ai une question pour vous.",
+    "ar": "عندي سؤال ليك."
+  },
+  {
+    "cat": 0,
+    "en": "The client called this morning.",
+    "fr": "Le client a appelé ce matin.",
+    "ar": "العميل تيليفن الصباح."
+  },
+  {
+    "cat": 0,
+    "en": "I finished the task.",
+    "fr": "J'ai terminé la tâche.",
+    "ar": "كملت الخدمة."
+  },
+  {
+    "cat": 0,
+    "en": "We have a new project.",
+    "fr": "Nous avons un nouveau projet.",
+    "ar": "عندنا مشروع جديد."
+  },
+  {
+    "cat": 0,
+    "en": "Please update the spreadsheet.",
+    "fr": "Veuillez mettre à jour le tableau.",
+    "ar": "عافاك حيّن الجدول."
+  },
+  {
+    "cat": 0,
+    "en": "The budget has been approved.",
+    "fr": "Le budget a été approuvé.",
+    "ar": "التمويل تصودق عليه."
+  },
+  {
+    "cat": 0,
+    "en": "I need a copy of the contract.",
+    "fr": "J'ai besoin d'une copie du contrat.",
+    "ar": "خصني نسخة من العقد."
+  },
+  {
+    "cat": 0,
+    "en": "Let us schedule a call.",
+    "fr": "Planifions un appel.",
+    "ar": "خلينا نحددو وقت للمكالمة."
+  },
+  {
+    "cat": 0,
+    "en": "I am available on Friday.",
+    "fr": "Je suis disponible vendredi.",
+    "ar": "أنا متاح نهار الجمعة."
+  },
+  {
+    "cat": 0,
+    "en": "The presentation went well.",
+    "fr": "La présentation s'est bien passée.",
+    "ar": "العرض مشى مزيان."
+  },
+  {
+    "cat": 0,
+    "en": "We need to cut costs.",
+    "fr": "Nous devons réduire les coûts.",
+    "ar": "خصنا ننقصو المصاريف."
+  },
+  {
+    "cat": 0,
+    "en": "I will handle this issue.",
+    "fr": "Je vais gérer ce problème.",
+    "ar": "أنا غادي نتعامل مع هاد المشكلة."
+  },
+  {
+    "cat": 0,
+    "en": "Please send me the invoice.",
+    "fr": "Veuillez m'envoyer la facture.",
+    "ar": "عافاك سيفط لي الفاتورة."
+  },
+  {
+    "cat": 0,
+    "en": "The team is ready.",
+    "fr": "L'équipe est prête.",
+    "ar": "الفريق واعر."
+  },
+  {
+    "cat": 0,
+    "en": "I need to print this document.",
+    "fr": "Je dois imprimer ce document.",
+    "ar": "خصني نطبع هاد الوثيقة."
+  },
+  {
+    "cat": 0,
+    "en": "Can you attend the meeting?",
+    "fr": "Pouvez-vous assister à la réunion?",
+    "ar": "واش تقدر تجي للاجتماع؟"
+  },
+  {
+    "cat": 0,
+    "en": "I will prepare the report.",
+    "fr": "Je vais préparer le rapport.",
+    "ar": "غادي نهيئ التقرير."
+  },
+  {
+    "cat": 0,
+    "en": "Please keep me updated.",
+    "fr": "Veuillez me tenir informé.",
+    "ar": "عافاك خليني على علم."
+  },
+  {
+    "cat": 0,
+    "en": "The system is down.",
+    "fr": "Le système est en panne.",
+    "ar": "النظام ما خدامش."
+  },
+  {
+    "cat": 0,
+    "en": "I need your feedback.",
+    "fr": "J'ai besoin de vos retours.",
+    "ar": "خصني رأيك."
+  },
+  {
+    "cat": 0,
+    "en": "We missed the deadline.",
+    "fr": "Nous avons manqué la date limite.",
+    "ar": "فاتنا الأجل."
+  },
+  {
+    "cat": 0,
+    "en": "I will fix this problem.",
+    "fr": "Je vais résoudre ce problème.",
+    "ar": "غادي نصلح هاد المشكلة."
+  },
+  {
+    "cat": 0,
+    "en": "Please forward this email.",
+    "fr": "Veuillez transférer cet email.",
+    "ar": "عافاك حول هاد الإيميل."
+  },
+  {
+    "cat": 0,
+    "en": "The contract is ready to sign.",
+    "fr": "Le contrat est prêt à signer.",
+    "ar": "العقد واعر للتوقيع."
+  },
+  {
+    "cat": 0,
+    "en": "I need to leave early today.",
+    "fr": "Je dois partir tôt aujourd'hui.",
+    "ar": "خصني نمشي بكري اليوم."
+  },
+  {
+    "cat": 0,
+    "en": "We are hiring new staff.",
+    "fr": "Nous recrutons du nouveau personnel.",
+    "ar": "كنقبلو خدامة جدد."
+  },
+  {
+    "cat": 0,
+    "en": "The meeting is cancelled.",
+    "fr": "La réunion est annulée.",
+    "ar": "الاجتماع تألغى."
+  },
+  {
+    "cat": 0,
+    "en": "Please check your email.",
+    "fr": "Veuillez vérifier votre email.",
+    "ar": "عافاك شوف إيميلك."
+  },
+  {
+    "cat": 0,
+    "en": "I need to call a client.",
+    "fr": "Je dois appeler un client.",
+    "ar": "خصني نتيليفن لعميل."
+  },
+  {
+    "cat": 0,
+    "en": "The office printer is broken.",
+    "fr": "L'imprimante du bureau est en panne.",
+    "ar": "الطابعة ديال المكتب محلولة."
+  },
+  {
+    "cat": 0,
+    "en": "I submitted the report.",
+    "fr": "J'ai soumis le rapport.",
+    "ar": "سلمت التقرير."
+  },
+  {
+    "cat": 0,
+    "en": "Can you cover for me today?",
+    "fr": "Pouvez-vous me remplacer aujourd'hui?",
+    "ar": "واش تقدر تنوب عليا اليوم؟"
+  },
+  {
+    "cat": 0,
+    "en": "I need access to the system.",
+    "fr": "J'ai besoin d'accéder au système.",
+    "ar": "خصني ندخل للنظام."
+  },
+  {
+    "cat": 0,
+    "en": "The results are very good.",
+    "fr": "Les résultats sont très bons.",
+    "ar": "النتائج مزيانين بزاف."
+  },
+  {
+    "cat": 1,
+    "en": "How much does this cost?",
+    "fr": "Combien ça coûte?",
+    "ar": "بشحال هاد الشي؟"
+  },
+  {
+    "cat": 1,
+    "en": "Do you have a smaller size?",
+    "fr": "Avez-vous une taille plus petite?",
+    "ar": "واش عندك حجم أصغر؟"
+  },
+  {
+    "cat": 1,
+    "en": "I would like a receipt.",
+    "fr": "Je voudrais un reçu.",
+    "ar": "بغيت وصل عافاك."
+  },
+  {
+    "cat": 1,
+    "en": "Where is the checkout?",
+    "fr": "Où est la caisse?",
+    "ar": "فين كاينة الصندوق؟"
+  },
+  {
+    "cat": 1,
+    "en": "Do you accept credit cards?",
+    "fr": "Acceptez-vous les cartes bancaires?",
+    "ar": "واش كتقبل البطاقة؟"
+  },
+  {
+    "cat": 1,
+    "en": "I am looking for shoes.",
+    "fr": "Je cherche des chaussures.",
+    "ar": "كنقلب على سبابط."
+  },
+  {
+    "cat": 1,
+    "en": "Can I try this on?",
+    "fr": "Puis-je l'essayer?",
+    "ar": "واش نقدر نجربو؟"
+  },
+  {
+    "cat": 1,
+    "en": "This is too expensive.",
+    "fr": "C'est trop cher.",
+    "ar": "هاد الشي غالي بزاف."
+  },
+  {
+    "cat": 1,
+    "en": "Do you have this in blue?",
+    "fr": "L'avez-vous en bleu?",
+    "ar": "واش عندك هاد الشي بلون كحل؟"
+  },
+  {
+    "cat": 1,
+    "en": "I want to return this.",
+    "fr": "Je veux retourner ceci.",
+    "ar": "بغيت نرجع هاد الشي."
+  },
+  {
+    "cat": 1,
+    "en": "Where are the vegetables?",
+    "fr": "Où sont les légumes?",
+    "ar": "فين كاينين الخضرة؟"
+  },
+  {
+    "cat": 1,
+    "en": "Can I have a bag please?",
+    "fr": "Puis-je avoir un sac s'il vous plaît?",
+    "ar": "واش تعطيني كيس عافاك؟"
+  },
+  {
+    "cat": 1,
+    "en": "Is there a discount?",
+    "fr": "Y a-t-il une réduction?",
+    "ar": "واش كاين تخفيض؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need to exchange this.",
+    "fr": "Je dois échanger ceci.",
+    "ar": "خصني نبدل هاد الشي."
+  },
+  {
+    "cat": 1,
+    "en": "What time do you close?",
+    "fr": "À quelle heure fermez-vous?",
+    "ar": "فشحال كتسدو؟"
+  },
+  {
+    "cat": 1,
+    "en": "Do you have this in stock?",
+    "fr": "L'avez-vous en stock?",
+    "ar": "واش عندكم هاد الشي فالمخزن؟"
+  },
+  {
+    "cat": 1,
+    "en": "I will pay by cash.",
+    "fr": "Je vais payer en espèces.",
+    "ar": "غادي نخلص بالكاش."
+  },
+  {
+    "cat": 1,
+    "en": "Where is the bread section?",
+    "fr": "Où est le rayon pain?",
+    "ar": "فين كاين قسم الخبز؟"
+  },
+  {
+    "cat": 1,
+    "en": "Can you gift wrap this?",
+    "fr": "Pouvez-vous faire un emballage cadeau?",
+    "ar": "واش تقدر تلفو كهدية؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need two kilos of tomatoes.",
+    "fr": "J'ai besoin de deux kilos de tomates.",
+    "ar": "خصني جوج كيلو ديال الطماطم."
+  },
+  {
+    "cat": 1,
+    "en": "This is broken.",
+    "fr": "Ceci est cassé.",
+    "ar": "هاد الشي محلول."
+  },
+  {
+    "cat": 1,
+    "en": "Do you have a loyalty card?",
+    "fr": "Avez-vous une carte de fidélité?",
+    "ar": "واش عندكم بطاقة الولاء؟"
+  },
+  {
+    "cat": 1,
+    "en": "Where is the fitting room?",
+    "fr": "Où est la cabine d'essayage?",
+    "ar": "فين كاينة غرفة التجربة؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need to buy a gift.",
+    "fr": "Je dois acheter un cadeau.",
+    "ar": "خصني نشري هدية."
+  },
+  {
+    "cat": 1,
+    "en": "Is there a sale today?",
+    "fr": "Y a-t-il des soldes aujourd'hui?",
+    "ar": "واش كاينة سولد اليوم؟"
+  },
+  {
+    "cat": 1,
+    "en": "This does not fit me.",
+    "fr": "Ça ne me va pas.",
+    "ar": "هاد الشي ما كيناسبنيش."
+  },
+  {
+    "cat": 1,
+    "en": "Can I speak to the manager?",
+    "fr": "Puis-je parler au responsable?",
+    "ar": "واش نقدر نهضر مع المسؤول؟"
+  },
+  {
+    "cat": 1,
+    "en": "Where is the pharmacy section?",
+    "fr": "Où est le rayon pharmacie?",
+    "ar": "فين كاين قسم الدواء؟"
+  },
+  {
+    "cat": 1,
+    "en": "I want the large size.",
+    "fr": "Je veux la grande taille.",
+    "ar": "بغيت الحجم الكبير."
+  },
+  {
+    "cat": 1,
+    "en": "How long is the warranty?",
+    "fr": "Quelle est la durée de la garantie?",
+    "ar": "شحال هي مدة الضمان؟"
+  },
+  {
+    "cat": 1,
+    "en": "Do you deliver at home?",
+    "fr": "Livrez-vous à domicile?",
+    "ar": "واش كتوصلو للدار؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need a phone charger.",
+    "fr": "J'ai besoin d'un chargeur de téléphone.",
+    "ar": "خصني شارجور ديال التيليفون."
+  },
+  {
+    "cat": 1,
+    "en": "Where can I find the milk?",
+    "fr": "Où puis-je trouver le lait?",
+    "ar": "فين نلقى الحليب؟"
+  },
+  {
+    "cat": 1,
+    "en": "This is the wrong order.",
+    "fr": "Ce n'est pas la bonne commande.",
+    "ar": "هاد الطلبية غلط."
+  },
+  {
+    "cat": 1,
+    "en": "Can I have the price list?",
+    "fr": "Puis-je avoir la liste des prix?",
+    "ar": "واش تعطيني قائمة الأثمان؟"
+  },
+  {
+    "cat": 1,
+    "en": "I will take two of these.",
+    "fr": "Je vais en prendre deux.",
+    "ar": "غادي ناخد جوج ديال هاد الشي."
+  },
+  {
+    "cat": 1,
+    "en": "Do you have organic products?",
+    "fr": "Avez-vous des produits bio?",
+    "ar": "واش عندكم منتجات بيو؟"
+  },
+  {
+    "cat": 1,
+    "en": "The queue is too long.",
+    "fr": "La file d'attente est trop longue.",
+    "ar": "الصف طويل بزاف."
+  },
+  {
+    "cat": 1,
+    "en": "I need a shopping basket.",
+    "fr": "J'ai besoin d'un panier.",
+    "ar": "خصني سلة للتسوق."
+  },
+  {
+    "cat": 1,
+    "en": "Where is the exit?",
+    "fr": "Où est la sortie?",
+    "ar": "فين كاين الخروج؟"
+  },
+  {
+    "cat": 1,
+    "en": "Can I have a bigger bag?",
+    "fr": "Puis-je avoir un sac plus grand?",
+    "ar": "واش تعطيني كيس أكبر؟"
+  },
+  {
+    "cat": 1,
+    "en": "This product is expired.",
+    "fr": "Ce produit est périmé.",
+    "ar": "هاد المنتوج مدتو فاتت."
+  },
+  {
+    "cat": 1,
+    "en": "I need to buy school supplies.",
+    "fr": "Je dois acheter des fournitures scolaires.",
+    "ar": "خصني نشري لوازم مدرسية."
+  },
+  {
+    "cat": 1,
+    "en": "Do you have this cheaper?",
+    "fr": "L'avez-vous moins cher?",
+    "ar": "واش عندك هاد الشي أرخص؟"
+  },
+  {
+    "cat": 1,
+    "en": "I lost my receipt.",
+    "fr": "J'ai perdu mon reçu.",
+    "ar": "ضيعت الوصل ديالي."
+  },
+  {
+    "cat": 1,
+    "en": "Can I pay in installments?",
+    "fr": "Puis-je payer en plusieurs fois?",
+    "ar": "واش نقدر نخلص بالأقساط؟"
+  },
+  {
+    "cat": 1,
+    "en": "Where are the cleaning products?",
+    "fr": "Où sont les produits ménagers?",
+    "ar": "فين كاينين منتجات التنظيف؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need a box for this.",
+    "fr": "J'ai besoin d'une boîte pour ça.",
+    "ar": "خصني كرطونة لهاد الشي."
+  },
+  {
+    "cat": 1,
+    "en": "Is this on sale?",
+    "fr": "Est-ce en promotion?",
+    "ar": "واش هاد الشي فالسولد؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need to buy a birthday cake.",
+    "fr": "Je dois acheter un gâteau d'anniversaire.",
+    "ar": "خصني نشري كاطو ديال عيد الميلاد."
+  },
+  {
+    "cat": 2,
+    "en": "I have a headache.",
+    "fr": "J'ai mal à la tête.",
+    "ar": "راسي كيدورني."
+  },
+  {
+    "cat": 2,
+    "en": "Where is the nearest pharmacy?",
+    "fr": "Où est la pharmacie la plus proche?",
+    "ar": "فين كاينة أقرب صيدلية؟"
+  },
+  {
+    "cat": 2,
+    "en": "I am allergic to penicillin.",
+    "fr": "Je suis allergique à la pénicilline.",
+    "ar": "عندي حساسية من البنيسيلين."
+  },
+  {
+    "cat": 2,
+    "en": "I need to see a doctor.",
+    "fr": "J'ai besoin de voir un médecin.",
+    "ar": "خصني نشوف الطبيب."
+  },
+  {
+    "cat": 2,
+    "en": "I have a fever.",
+    "fr": "J'ai de la fièvre.",
+    "ar": "عندي سخانة."
+  },
+  {
+    "cat": 2,
+    "en": "My stomach hurts.",
+    "fr": "J'ai mal au ventre.",
+    "ar": "كرشي كتوجعني."
+  },
+  {
+    "cat": 2,
+    "en": "I need a prescription.",
+    "fr": "J'ai besoin d'une ordonnance.",
+    "ar": "خصني وصفة طبية."
+  },
+  {
+    "cat": 2,
+    "en": "I feel dizzy.",
+    "fr": "Je me sens étourdi.",
+    "ar": "راسي كيدور عليا."
+  },
+  {
+    "cat": 2,
+    "en": "I have a cough.",
+    "fr": "J'ai une toux.",
+    "ar": "عندي كحة."
+  },
+  {
+    "cat": 2,
+    "en": "Where is the emergency room?",
+    "fr": "Où sont les urgences?",
+    "ar": "فين كاينة الاستعجالات؟"
+  },
+  {
+    "cat": 2,
+    "en": "I need pain medication.",
+    "fr": "J'ai besoin d'un analgésique.",
+    "ar": "خصني دواء للألم."
+  },
+  {
+    "cat": 2,
+    "en": "I have a sore throat.",
+    "fr": "J'ai mal à la gorge.",
+    "ar": "حلقي كيوجعني."
+  },
+  {
+    "cat": 2,
+    "en": "I cannot sleep at night.",
+    "fr": "Je ne peux pas dormir la nuit.",
+    "ar": "ما نقدرش ننعس بالليل."
+  },
+  {
+    "cat": 2,
+    "en": "I need to make an appointment.",
+    "fr": "Je dois prendre rendez-vous.",
+    "ar": "خصني نأخد موعد."
+  },
+  {
+    "cat": 2,
+    "en": "I have high blood pressure.",
+    "fr": "J'ai de l'hypertension.",
+    "ar": "عندي ضغط الدم مرتفع."
+  },
+  {
+    "cat": 2,
+    "en": "I broke my arm.",
+    "fr": "Je me suis cassé le bras.",
+    "ar": "كسرت يدي."
+  },
+  {
+    "cat": 2,
+    "en": "I need an X-ray.",
+    "fr": "J'ai besoin d'une radiographie.",
+    "ar": "خصني راديو."
+  },
+  {
+    "cat": 2,
+    "en": "I have diabetes.",
+    "fr": "J'ai le diabète.",
+    "ar": "عندي داء السكري."
+  },
+  {
+    "cat": 2,
+    "en": "My back hurts.",
+    "fr": "J'ai mal au dos.",
+    "ar": "ضهري كيوجعني."
+  },
+  {
+    "cat": 2,
+    "en": "I need a blood test.",
+    "fr": "J'ai besoin d'une analyse de sang.",
+    "ar": "خصني تحليل الدم."
+  },
+  {
+    "cat": 2,
+    "en": "I have an infection.",
+    "fr": "J'ai une infection.",
+    "ar": "عندي عدوى."
+  },
+  {
+    "cat": 2,
+    "en": "I feel nauseous.",
+    "fr": "J'ai des nausées.",
+    "ar": "عندي دواخة."
+  },
+  {
+    "cat": 2,
+    "en": "Take this twice a day.",
+    "fr": "Prenez ceci deux fois par jour.",
+    "ar": "خد هاد الدواء مرتين فاليوم."
+  },
+  {
+    "cat": 2,
+    "en": "I have a cold.",
+    "fr": "J'ai un rhume.",
+    "ar": "عندي زكام."
+  },
+  {
+    "cat": 2,
+    "en": "I need glasses.",
+    "fr": "J'ai besoin de lunettes.",
+    "ar": "خصني نظارات."
+  },
+  {
+    "cat": 2,
+    "en": "My eye hurts.",
+    "fr": "Mon œil me fait mal.",
+    "ar": "عيني كتوجعني."
+  },
+  {
+    "cat": 2,
+    "en": "I need to lose weight.",
+    "fr": "Je dois perdre du poids.",
+    "ar": "خصني ننقص فالوزن."
+  },
+  {
+    "cat": 2,
+    "en": "I have asthma.",
+    "fr": "J'ai de l'asthme.",
+    "ar": "عندي ربو."
+  },
+  {
+    "cat": 2,
+    "en": "I need a dentist.",
+    "fr": "J'ai besoin d'un dentiste.",
+    "ar": "خصني طبيب الأسنان."
+  },
+  {
+    "cat": 2,
+    "en": "My tooth hurts.",
+    "fr": "Ma dent me fait mal.",
+    "ar": "سني كيوجعني."
+  },
+  {
+    "cat": 2,
+    "en": "I need to check my blood sugar.",
+    "fr": "Je dois vérifier ma glycémie.",
+    "ar": "خصني نشوف السكر ديالي."
+  },
+  {
+    "cat": 2,
+    "en": "I have an appointment at 10.",
+    "fr": "J'ai un rendez-vous à 10h.",
+    "ar": "عندي موعد من العاشرة."
+  },
+  {
+    "cat": 2,
+    "en": "I am pregnant.",
+    "fr": "Je suis enceinte.",
+    "ar": "أنا حامل."
+  },
+  {
+    "cat": 2,
+    "en": "I need a sick note.",
+    "fr": "J'ai besoin d'un certificat médical.",
+    "ar": "خصني شهادة طبية."
+  },
+  {
+    "cat": 2,
+    "en": "I have chest pain.",
+    "fr": "J'ai des douleurs à la poitrine.",
+    "ar": "عندي وجع فالصدر."
+  },
+  {
+    "cat": 2,
+    "en": "I sprained my ankle.",
+    "fr": "Je me suis foulé la cheville.",
+    "ar": "فرصت كاحلي."
+  },
+  {
+    "cat": 2,
+    "en": "I need vitamins.",
+    "fr": "J'ai besoin de vitamines.",
+    "ar": "خصني فيتامينات."
+  },
+  {
+    "cat": 2,
+    "en": "My knee hurts.",
+    "fr": "Mon genou me fait mal.",
+    "ar": "ركبتي كتوجعني."
+  },
+  {
+    "cat": 2,
+    "en": "I have insomnia.",
+    "fr": "J'ai de l'insomnie.",
+    "ar": "عندي أرق."
+  },
+  {
+    "cat": 2,
+    "en": "I need a wheelchair.",
+    "fr": "J'ai besoin d'un fauteuil roulant.",
+    "ar": "خصني كرسي متحرك."
+  },
+  {
+    "cat": 2,
+    "en": "I have a skin rash.",
+    "fr": "J'ai une éruption cutanée.",
+    "ar": "عندي طفح جلدي."
+  },
+  {
+    "cat": 2,
+    "en": "I need sunscreen.",
+    "fr": "J'ai besoin de crème solaire.",
+    "ar": "خصني كريم ضد الشمس."
+  },
+  {
+    "cat": 2,
+    "en": "I feel very tired.",
+    "fr": "Je me sens très fatigué.",
+    "ar": "كنحس بعياء بزاف."
+  },
+  {
+    "cat": 2,
+    "en": "I have a swollen foot.",
+    "fr": "J'ai le pied gonflé.",
+    "ar": "رجلي منتفخة."
+  },
+  {
+    "cat": 2,
+    "en": "I need crutches.",
+    "fr": "J'ai besoin de béquilles.",
+    "ar": "خصني عكازات."
+  },
+  {
+    "cat": 2,
+    "en": "I have low blood pressure.",
+    "fr": "J'ai une hypotension.",
+    "ar": "عندي ضغط الدم منخفض."
+  },
+  {
+    "cat": 2,
+    "en": "I need to rest.",
+    "fr": "J'ai besoin de me reposer.",
+    "ar": "خصني نرتاح."
+  },
+  {
+    "cat": 2,
+    "en": "I have a burn.",
+    "fr": "J'ai une brûlure.",
+    "ar": "عندي حرقة."
+  },
+  {
+    "cat": 2,
+    "en": "I need to drink more water.",
+    "fr": "Je dois boire plus d'eau.",
+    "ar": "خصني نشرب الما أكثر."
+  },
+  {
+    "cat": 2,
+    "en": "I have a blister.",
+    "fr": "J'ai une ampoule.",
+    "ar": "عندي فقاعة."
+  },
+  {
+    "cat": 3,
+    "en": "Nice to meet you!",
+    "fr": "Enchanté de vous rencontrer!",
+    "ar": "متشرف بمعرفتك!"
+  },
+  {
+    "cat": 3,
+    "en": "What do you do for work?",
+    "fr": "Qu'est-ce que vous faites comme travail?",
+    "ar": "أشنو كدير ف الخدمة؟"
+  },
+  {
+    "cat": 3,
+    "en": "Can we meet tomorrow?",
+    "fr": "Pouvons-nous nous retrouver demain?",
+    "ar": "واش نقدرو نتلاقاو غدا؟"
+  },
+  {
+    "cat": 3,
+    "en": "How are you today?",
+    "fr": "Comment allez-vous aujourd'hui?",
+    "ar": "كيداير اليوم؟"
+  },
+  {
+    "cat": 3,
+    "en": "I am from Morocco.",
+    "fr": "Je suis du Maroc.",
+    "ar": "أنا من المغرب."
+  },
+  {
+    "cat": 3,
+    "en": "What is your name?",
+    "fr": "Comment vous appelez-vous?",
+    "ar": "شنو سميتك؟"
+  },
+  {
+    "cat": 3,
+    "en": "I am learning French.",
+    "fr": "J'apprends le français.",
+    "ar": "كنتعلم الفرنسية."
+  },
+  {
+    "cat": 3,
+    "en": "Where are you from?",
+    "fr": "D'où êtes-vous?",
+    "ar": "منين نتا؟"
+  },
+  {
+    "cat": 3,
+    "en": "How old are you?",
+    "fr": "Quel âge avez-vous?",
+    "ar": "شحال فعمرك؟"
+  },
+  {
+    "cat": 3,
+    "en": "I have two children.",
+    "fr": "J'ai deux enfants.",
+    "ar": "عندي جوج ديال الدراري."
+  },
+  {
+    "cat": 3,
+    "en": "I am married.",
+    "fr": "Je suis marié.",
+    "ar": "أنا متزوج."
+  },
+  {
+    "cat": 3,
+    "en": "Do you speak English?",
+    "fr": "Parlez-vous anglais?",
+    "ar": "واش كتهضر الإنجليزية؟"
+  },
+  {
+    "cat": 3,
+    "en": "I do not understand.",
+    "fr": "Je ne comprends pas.",
+    "ar": "ما فهمتش."
+  },
+  {
+    "cat": 3,
+    "en": "Please speak slowly.",
+    "fr": "Veuillez parler lentement.",
+    "ar": "عافاك هضر بشوية."
+  },
+  {
+    "cat": 3,
+    "en": "Can you repeat that?",
+    "fr": "Pouvez-vous répéter?",
+    "ar": "واش تعاود مرة أخرى؟"
+  },
+  {
+    "cat": 3,
+    "en": "I am sorry for being late.",
+    "fr": "Je suis désolé d'être en retard.",
+    "ar": "سمح لي على التأخير."
+  },
+  {
+    "cat": 3,
+    "en": "Thank you very much.",
+    "fr": "Merci beaucoup.",
+    "ar": "شكرا بزاف."
+  },
+  {
+    "cat": 3,
+    "en": "You are welcome.",
+    "fr": "Je vous en prie.",
+    "ar": "لا شكر على واجب."
+  },
+  {
+    "cat": 3,
+    "en": "See you tomorrow.",
+    "fr": "À demain.",
+    "ar": "نتشافاو غدا."
+  },
+  {
+    "cat": 3,
+    "en": "Have a good day!",
+    "fr": "Bonne journée!",
+    "ar": "نهارك سعيد!"
+  },
+  {
+    "cat": 3,
+    "en": "I live in Casablanca.",
+    "fr": "J'habite à Casablanca.",
+    "ar": "كنسكن فالدار البيضاء."
+  },
+  {
+    "cat": 3,
+    "en": "It was a pleasure.",
+    "fr": "C'était un plaisir.",
+    "ar": "كانت متعة."
+  },
+  {
+    "cat": 3,
+    "en": "I agree with you.",
+    "fr": "Je suis d'accord avec vous.",
+    "ar": "متفق معك."
+  },
+  {
+    "cat": 3,
+    "en": "Congratulations!",
+    "fr": "Félicitations!",
+    "ar": "مبروك!"
+  },
+  {
+    "cat": 3,
+    "en": "Happy birthday!",
+    "fr": "Joyeux anniversaire!",
+    "ar": "عيد ميلاد سعيد!"
+  },
+  {
+    "cat": 3,
+    "en": "I miss you.",
+    "fr": "Tu me manques.",
+    "ar": "كنتوحشك."
+  },
+  {
+    "cat": 3,
+    "en": "Take care of yourself.",
+    "fr": "Prenez soin de vous.",
+    "ar": "دير بالك على راسك."
+  },
+  {
+    "cat": 3,
+    "en": "Good luck!",
+    "fr": "Bonne chance!",
+    "ar": "بالتوفيق!"
+  },
+  {
+    "cat": 3,
+    "en": "I am proud of you.",
+    "fr": "Je suis fier de vous.",
+    "ar": "كنتفخر بيك."
+  },
+  {
+    "cat": 3,
+    "en": "Can I have your number?",
+    "fr": "Puis-je avoir votre numéro?",
+    "ar": "واش تعطيني نومرك؟"
+  },
+  {
+    "cat": 3,
+    "en": "Let us have coffee.",
+    "fr": "Allons prendre un café.",
+    "ar": "خلينا ناخدو قهوة."
+  },
+  {
+    "cat": 3,
+    "en": "I will call you later.",
+    "fr": "Je vous appellerai plus tard.",
+    "ar": "غادي نتيليفن ليك من بعد."
+  },
+  {
+    "cat": 3,
+    "en": "What are you doing tonight?",
+    "fr": "Que faites-vous ce soir?",
+    "ar": "أشنو دايرو الليلة؟"
+  },
+  {
+    "cat": 3,
+    "en": "I had a great time.",
+    "fr": "Je me suis très bien amusé.",
+    "ar": "تمتعت بزاف."
+  },
+  {
+    "cat": 3,
+    "en": "You look great today.",
+    "fr": "Vous avez l'air super aujourd'hui.",
+    "ar": "كتبان مزيان اليوم."
+  },
+  {
+    "cat": 3,
+    "en": "I need your advice.",
+    "fr": "J'ai besoin de vos conseils.",
+    "ar": "خصني رأيك."
+  },
+  {
+    "cat": 3,
+    "en": "Let us stay in touch.",
+    "fr": "Restons en contact.",
+    "ar": "خلينا نبقاو على تواصل."
+  },
+  {
+    "cat": 3,
+    "en": "I am feeling great.",
+    "fr": "Je me sens très bien.",
+    "ar": "كنحس مزيان بزاف."
+  },
+  {
+    "cat": 3,
+    "en": "How was your weekend?",
+    "fr": "Comment s'est passé votre week-end?",
+    "ar": "كيفاش دارت ويكاند ديالك؟"
+  },
+  {
+    "cat": 3,
+    "en": "I enjoy spending time with you.",
+    "fr": "J'aime passer du temps avec vous.",
+    "ar": "كنبغي نقضي الوقت معك."
+  },
+  {
+    "cat": 3,
+    "en": "You are very kind.",
+    "fr": "Vous êtes très gentil.",
+    "ar": "نتا بغا."
+  },
+  {
+    "cat": 3,
+    "en": "I will see you soon.",
+    "fr": "À bientôt.",
+    "ar": "نتشافاو قريبا."
+  },
+  {
+    "cat": 3,
+    "en": "What do you like to do?",
+    "fr": "Qu'est-ce que vous aimez faire?",
+    "ar": "أشنو كتحب تدير؟"
+  },
+  {
+    "cat": 3,
+    "en": "I love Moroccan food.",
+    "fr": "J'adore la cuisine marocaine.",
+    "ar": "كنبغي الماكلة المغربية."
+  },
+  {
+    "cat": 3,
+    "en": "Let us go for a walk.",
+    "fr": "Allons nous promener.",
+    "ar": "خلينا نمشيو نتمشاو."
+  },
+  {
+    "cat": 3,
+    "en": "I am happy to help.",
+    "fr": "Je suis heureux d'aider.",
+    "ar": "فرحان نعاونك."
+  },
+  {
+    "cat": 3,
+    "en": "You are my best friend.",
+    "fr": "Tu es mon meilleur ami.",
+    "ar": "نتا صاحبي الزين."
+  },
+  {
+    "cat": 3,
+    "en": "I will never forget this.",
+    "fr": "Je n'oublierai jamais ça.",
+    "ar": "غادي ما ننساش هاد الشي أبدا."
+  },
+  {
+    "cat": 3,
+    "en": "It is so good to see you.",
+    "fr": "C'est si bon de vous voir.",
+    "ar": "فرحان نشوفك."
+  },
+  {
+    "cat": 4,
+    "en": "Where is the train station?",
+    "fr": "Où est la gare?",
+    "ar": "فين كاينة المحطة؟"
+  },
+  {
+    "cat": 4,
+    "en": "One ticket to Paris please.",
+    "fr": "Un billet pour Paris s'il vous plaît.",
+    "ar": "تيكي واحد لباريس عافاك."
+  },
+  {
+    "cat": 4,
+    "en": "What time does it depart?",
+    "fr": "À quelle heure est-ce que ça part?",
+    "ar": "فشحال كيمشي؟"
+  },
+  {
+    "cat": 4,
+    "en": "Where is the airport?",
+    "fr": "Où est l'aéroport?",
+    "ar": "فين كاين المطار؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need to check in.",
+    "fr": "Je dois m'enregistrer.",
+    "ar": "خصني نديفاج."
+  },
+  {
+    "cat": 4,
+    "en": "My flight is delayed.",
+    "fr": "Mon vol est retardé.",
+    "ar": "الطيارة ديالي تأخرات."
+  },
+  {
+    "cat": 4,
+    "en": "Where is gate number 5?",
+    "fr": "Où est la porte numéro 5?",
+    "ar": "فين كاينة بورطا نومرو 5؟"
+  },
+  {
+    "cat": 4,
+    "en": "I lost my luggage.",
+    "fr": "J'ai perdu mes bagages.",
+    "ar": "ضيعت شنطتي."
+  },
+  {
+    "cat": 4,
+    "en": "I need a taxi.",
+    "fr": "J'ai besoin d'un taxi.",
+    "ar": "خصني طاكسي."
+  },
+  {
+    "cat": 4,
+    "en": "Take me to this address.",
+    "fr": "Emmenez-moi à cette adresse.",
+    "ar": "وصلني لهاد العنوان."
+  },
+  {
+    "cat": 4,
+    "en": "How long is the journey?",
+    "fr": "Combien de temps dure le trajet?",
+    "ar": "شحال كيدوز الطريق؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need a hotel room.",
+    "fr": "J'ai besoin d'une chambre d'hôtel.",
+    "ar": "خصني بيت فالأوطيل."
+  },
+  {
+    "cat": 4,
+    "en": "Is breakfast included?",
+    "fr": "Le petit-déjeuner est-il inclus?",
+    "ar": "واش الفطور داخل فالثمن؟"
+  },
+  {
+    "cat": 4,
+    "en": "I have a reservation.",
+    "fr": "J'ai une réservation.",
+    "ar": "عندي حجز."
+  },
+  {
+    "cat": 4,
+    "en": "What is the WiFi password?",
+    "fr": "Quel est le mot de passe WiFi?",
+    "ar": "شنو هو باسوورد ديال الويفي؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need a map of the city.",
+    "fr": "J'ai besoin d'un plan de la ville.",
+    "ar": "خصني خريطة ديال المدينة."
+  },
+  {
+    "cat": 4,
+    "en": "Where is the bus stop?",
+    "fr": "Où est l'arrêt de bus?",
+    "ar": "فين كاينة وقفة الطوبيس؟"
+  },
+  {
+    "cat": 4,
+    "en": "How much is the taxi fare?",
+    "fr": "Combien coûte la course en taxi?",
+    "ar": "بشحال الطاكسي؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need to exchange money.",
+    "fr": "Je dois changer de l'argent.",
+    "ar": "خصني نصرف الفلوس."
+  },
+  {
+    "cat": 4,
+    "en": "Where is the tourist office?",
+    "fr": "Où est l'office du tourisme?",
+    "ar": "فين كاين مكتب السياحة؟"
+  },
+  {
+    "cat": 4,
+    "en": "I want to visit the museum.",
+    "fr": "Je veux visiter le musée.",
+    "ar": "بغيت نزور المتحف."
+  },
+  {
+    "cat": 4,
+    "en": "Can you take a photo of us?",
+    "fr": "Pouvez-vous nous prendre en photo?",
+    "ar": "واش تقدر تصورنا؟"
+  },
+  {
+    "cat": 4,
+    "en": "I am lost.",
+    "fr": "Je suis perdu.",
+    "ar": "أنا ضايع."
+  },
+  {
+    "cat": 4,
+    "en": "Turn left here.",
+    "fr": "Tournez à gauche ici.",
+    "ar": "دور لليسار هنا."
+  },
+  {
+    "cat": 4,
+    "en": "Turn right at the traffic light.",
+    "fr": "Tournez à droite au feu.",
+    "ar": "دور لليمين عند الفاصل."
+  },
+  {
+    "cat": 4,
+    "en": "How far is the city center?",
+    "fr": "À quelle distance est le centre-ville?",
+    "ar": "شحال بعيدة وسط المدينة؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need to rent a car.",
+    "fr": "Je dois louer une voiture.",
+    "ar": "خصني نكري طوموبيل."
+  },
+  {
+    "cat": 4,
+    "en": "Where can I find a restaurant?",
+    "fr": "Où puis-je trouver un restaurant?",
+    "ar": "فين نلقى ريستو؟"
+  },
+  {
+    "cat": 4,
+    "en": "I have a connecting flight.",
+    "fr": "J'ai une correspondance.",
+    "ar": "عندي تحويل فالطيارة."
+  },
+  {
+    "cat": 4,
+    "en": "My passport is lost.",
+    "fr": "Mon passeport est perdu.",
+    "ar": "ضيعت الباسبور ديالي."
+  },
+  {
+    "cat": 4,
+    "en": "Where is the embassy?",
+    "fr": "Où est l'ambassade?",
+    "ar": "فين كاينة السفارة؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need to call my family.",
+    "fr": "Je dois appeler ma famille.",
+    "ar": "خصني نتيليفن للعائلة."
+  },
+  {
+    "cat": 4,
+    "en": "Is there a swimming pool?",
+    "fr": "Y a-t-il une piscine?",
+    "ar": "واش كاينة حمام السباحة؟"
+  },
+  {
+    "cat": 4,
+    "en": "I want a non-smoking room.",
+    "fr": "Je veux une chambre non-fumeurs.",
+    "ar": "بغيت بيت بلا دخان."
+  },
+  {
+    "cat": 4,
+    "en": "What time is checkout?",
+    "fr": "À quelle heure est le départ?",
+    "ar": "فشحال كيكون وقت المغادرة؟"
+  },
+  {
+    "cat": 4,
+    "en": "Can I have an extra pillow?",
+    "fr": "Puis-je avoir un oreiller supplémentaire?",
+    "ar": "واش تعطيني مخدة زيادة؟"
+  },
+  {
+    "cat": 4,
+    "en": "The room is too noisy.",
+    "fr": "La chambre est trop bruyante.",
+    "ar": "البيت فيه ضجيج بزاف."
+  },
+  {
+    "cat": 4,
+    "en": "I need a wake-up call.",
+    "fr": "J'ai besoin d'un réveil téléphonique.",
+    "ar": "خصني يصحوني بالتيليفون."
+  },
+  {
+    "cat": 4,
+    "en": "Where is the nearest ATM?",
+    "fr": "Où est le distributeur le plus proche?",
+    "ar": "فين كاين أقرب صراف آلي؟"
+  },
+  {
+    "cat": 4,
+    "en": "I want to go sightseeing.",
+    "fr": "Je veux visiter les sites touristiques.",
+    "ar": "بغيت نزور المعالم السياحية."
+  },
+  {
+    "cat": 4,
+    "en": "Is there a tour guide?",
+    "fr": "Y a-t-il un guide touristique?",
+    "ar": "واش كاين مرشد سياحي؟"
+  },
+  {
+    "cat": 4,
+    "en": "How do I get to the beach?",
+    "fr": "Comment aller à la plage?",
+    "ar": "كيفاش نوصل للبلاج؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need travel insurance.",
+    "fr": "J'ai besoin d'une assurance voyage.",
+    "ar": "خصني تأمين السفر."
+  },
+  {
+    "cat": 4,
+    "en": "My suitcase is too heavy.",
+    "fr": "Ma valise est trop lourde.",
+    "ar": "شنطتي تقيلة بزاف."
+  },
+  {
+    "cat": 4,
+    "en": "Where is the luggage claim?",
+    "fr": "Où est la livraison des bagages?",
+    "ar": "فين كاينة السيور ديال الشنط؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need a boarding pass.",
+    "fr": "J'ai besoin d'une carte d'embarquement.",
+    "ar": "خصني كارط ديال الطيارة."
+  },
+  {
+    "cat": 4,
+    "en": "The train is full.",
+    "fr": "Le train est complet.",
+    "ar": "الكيران عامر."
+  },
+  {
+    "cat": 4,
+    "en": "I prefer a window seat.",
+    "fr": "Je préfère une place côté fenêtre.",
+    "ar": "كنفضل بلاصة جنب الطاقة."
+  },
+  {
+    "cat": 4,
+    "en": "Can I upgrade my seat?",
+    "fr": "Puis-je surclasser mon siège?",
+    "ar": "واش نقدر نحسن بلاصتي؟"
+  },
+  {
+    "cat": 0,
+    "en": "I need to update my resume.",
+    "fr": "Je dois mettre à jour mon CV.",
+    "ar": "خصني نحيّن السيفي ديالي."
+  },
+  {
+    "cat": 0,
+    "en": "The interview is at 2 PM.",
+    "fr": "L'entretien est à 14h.",
+    "ar": "المقابلة من الثانية."
+  },
+  {
+    "cat": 0,
+    "en": "I got promoted.",
+    "fr": "J'ai été promu.",
+    "ar": "ترقيت فالخدمة."
+  },
+  {
+    "cat": 0,
+    "en": "I need a pay raise.",
+    "fr": "J'ai besoin d'une augmentation.",
+    "ar": "خصني زيادة فالراتب."
+  },
+  {
+    "cat": 0,
+    "en": "Please fill out this form.",
+    "fr": "Veuillez remplir ce formulaire.",
+    "ar": "عافاك عمر هاد الورقة."
+  },
+  {
+    "cat": 0,
+    "en": "I have too much work.",
+    "fr": "J'ai trop de travail.",
+    "ar": "عندي خدمة بزاف."
+  },
+  {
+    "cat": 0,
+    "en": "We need a new strategy.",
+    "fr": "Nous avons besoin d'une nouvelle stratégie.",
+    "ar": "خصنا ستراتيجية جديدة."
+  },
+  {
+    "cat": 0,
+    "en": "I need to train new staff.",
+    "fr": "Je dois former le nouveau personnel.",
+    "ar": "خصني ندرب الخدامة الجدد."
+  },
+  {
+    "cat": 0,
+    "en": "Please sign this contract.",
+    "fr": "Veuillez signer ce contrat.",
+    "ar": "عافاك وقع على هاد العقد."
+  },
+  {
+    "cat": 0,
+    "en": "I have a business trip.",
+    "fr": "J'ai un voyage d'affaires.",
+    "ar": "عندي سفر للخدمة."
+  },
+  {
+    "cat": 0,
+    "en": "The server is down.",
+    "fr": "Le serveur est en panne.",
+    "ar": "السيرفر واقف."
+  },
+  {
+    "cat": 0,
+    "en": "We exceeded our target.",
+    "fr": "Nous avons dépassé notre objectif.",
+    "ar": "تجاوزنا الهدف ديالنا."
+  },
+  {
+    "cat": 0,
+    "en": "I have a performance review.",
+    "fr": "J'ai une évaluation de performance.",
+    "ar": "عندي تقييم الأداء."
+  },
+  {
+    "cat": 0,
+    "en": "I need to contact the supplier.",
+    "fr": "Je dois contacter le fournisseur.",
+    "ar": "خصني نتواصل مع الموزع."
+  },
+  {
+    "cat": 0,
+    "en": "We have a new client.",
+    "fr": "Nous avons un nouveau client.",
+    "ar": "جانا عميل جديد."
+  },
+  {
+    "cat": 0,
+    "en": "The project is over budget.",
+    "fr": "Le projet dépasse le budget.",
+    "ar": "المشروع تجاوز الميزانية."
+  },
+  {
+    "cat": 0,
+    "en": "I need to do overtime.",
+    "fr": "Je dois faire des heures supplémentaires.",
+    "ar": "خصني نخدم ساعات إضافية."
+  },
+  {
+    "cat": 0,
+    "en": "We launched a new product.",
+    "fr": "Nous avons lancé un nouveau produit.",
+    "ar": "طلقنا منتوج جديد."
+  },
+  {
+    "cat": 0,
+    "en": "The customer is complaining.",
+    "fr": "Le client se plaint.",
+    "ar": "العميل كيشتكي."
+  },
+  {
+    "cat": 0,
+    "en": "I need to update my password.",
+    "fr": "Je dois changer mon mot de passe.",
+    "ar": "خصني نبدل الباسوورد ديالي."
+  },
+  {
+    "cat": 0,
+    "en": "I need an extension.",
+    "fr": "J'ai besoin d'un délai supplémentaire.",
+    "ar": "خصني مهلة زيادة."
+  },
+  {
+    "cat": 0,
+    "en": "We have a new policy.",
+    "fr": "Nous avons une nouvelle politique.",
+    "ar": "عندنا سياسة جديدة."
+  },
+  {
+    "cat": 0,
+    "en": "The meeting was productive.",
+    "fr": "La réunion a été productive.",
+    "ar": "الاجتماع كان مفيد."
+  },
+  {
+    "cat": 0,
+    "en": "I need to fix a bug.",
+    "fr": "Je dois corriger un bug.",
+    "ar": "خصني نصلح بوغ."
+  },
+  {
+    "cat": 0,
+    "en": "I work night shifts.",
+    "fr": "Je travaille de nuit.",
+    "ar": "كنخدم بالليل."
+  },
+  {
+    "cat": 0,
+    "en": "I need to book a conference room.",
+    "fr": "Je dois réserver une salle de conférence.",
+    "ar": "خصني نحجز قاعة الاجتماعات."
+  },
+  {
+    "cat": 0,
+    "en": "Please prepare a summary.",
+    "fr": "Veuillez préparer un résumé.",
+    "ar": "عافاك هيئ ملخص."
+  },
+  {
+    "cat": 0,
+    "en": "I need to check the inventory.",
+    "fr": "Je dois vérifier le stock.",
+    "ar": "خصني نشوف المخزن."
+  },
+  {
+    "cat": 0,
+    "en": "I resigned from my job.",
+    "fr": "J'ai démissionné.",
+    "ar": "استقلت من الخدمة."
+  },
+  {
+    "cat": 0,
+    "en": "The team worked hard.",
+    "fr": "L'équipe a bien travaillé.",
+    "ar": "الفريق خدم مزيان."
+  },
+  {
+    "cat": 0,
+    "en": "I need to attend a training.",
+    "fr": "Je dois participer à une formation.",
+    "ar": "خصني نحضر تدريب."
+  },
+  {
+    "cat": 0,
+    "en": "The wifi is not working.",
+    "fr": "Le wifi ne fonctionne pas.",
+    "ar": "الويفي ما خدامش."
+  },
+  {
+    "cat": 0,
+    "en": "We need more resources.",
+    "fr": "Nous avons besoin de plus de ressources.",
+    "ar": "خصنا موارد أكثر."
+  },
+  {
+    "cat": 0,
+    "en": "The quarterly report is ready.",
+    "fr": "Le rapport trimestriel est prêt.",
+    "ar": "تقرير الربع السنوي واعر."
+  },
+  {
+    "cat": 0,
+    "en": "I need office supplies.",
+    "fr": "J'ai besoin de fournitures de bureau.",
+    "ar": "خصني لوازم المكتب."
+  },
+  {
+    "cat": 0,
+    "en": "The invoice is overdue.",
+    "fr": "La facture est en retard.",
+    "ar": "الفاتورة تأخرات."
+  },
+  {
+    "cat": 0,
+    "en": "Please prepare the agenda.",
+    "fr": "Veuillez préparer l'ordre du jour.",
+    "ar": "عافاك هيئ جدول الأعمال."
+  },
+  {
+    "cat": 0,
+    "en": "I need to send a proposal.",
+    "fr": "Je dois envoyer une proposition.",
+    "ar": "خصني نسيفط عرض."
+  },
+  {
+    "cat": 0,
+    "en": "I need to file a complaint.",
+    "fr": "Je dois déposer une plainte.",
+    "ar": "خصني نقدم شكاية."
+  },
+  {
+    "cat": 0,
+    "en": "The boss called a meeting.",
+    "fr": "Le patron a convoqué une réunion.",
+    "ar": "الباطرون عقد اجتماع."
+  },
+  {
+    "cat": 0,
+    "en": "The new employee starts today.",
+    "fr": "Le nouvel employé commence aujourd'hui.",
+    "ar": "الخدام الجديد كيبدا اليوم."
+  },
+  {
+    "cat": 0,
+    "en": "We are hiring new staff.",
+    "fr": "Nous recrutons du nouveau personnel.",
+    "ar": "كنقبلو خدامة جدد."
+  },
+  {
+    "cat": 0,
+    "en": "I need to submit my timesheet.",
+    "fr": "Je dois soumettre ma feuille de temps.",
+    "ar": "خصني نسلم ورقة الساعات."
+  },
+  {
+    "cat": 0,
+    "en": "The product launch was successful.",
+    "fr": "Le lancement du produit a réussi.",
+    "ar": "تطلاق المنتوج نجح."
+  },
+  {
+    "cat": 0,
+    "en": "The sales increased this month.",
+    "fr": "Les ventes ont augmenté ce mois.",
+    "ar": "المبيعات زادت هاد الشهر."
+  },
+  {
+    "cat": 0,
+    "en": "Please archive these documents.",
+    "fr": "Veuillez archiver ces documents.",
+    "ar": "عافاك أرشف هاد الوثائق."
+  },
+  {
+    "cat": 0,
+    "en": "The stock is running low.",
+    "fr": "Le stock diminue.",
+    "ar": "المخزن كيخلصو."
+  },
+  {
+    "cat": 0,
+    "en": "We need to cut the budget.",
+    "fr": "Nous devons réduire le budget.",
+    "ar": "خصنا ننقصو الميزانية."
+  },
+  {
+    "cat": 0,
+    "en": "Please schedule a demo.",
+    "fr": "Veuillez planifier une démonstration.",
+    "ar": "عافاك رتب عرضا تجريبيا."
+  },
+  {
+    "cat": 0,
+    "en": "I need to update the website.",
+    "fr": "Je dois mettre à jour le site web.",
+    "ar": "خصني نحيّن الموقع."
+  },
+  {
+    "cat": 1,
+    "en": "I need to buy vegetables.",
+    "fr": "Je dois acheter des légumes.",
+    "ar": "خصني نشري خضرة."
+  },
+  {
+    "cat": 1,
+    "en": "Where is the meat section?",
+    "fr": "Où est le rayon boucherie?",
+    "ar": "فين كاين قسم اللحم؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need olive oil.",
+    "fr": "J'ai besoin d'huile d'olive.",
+    "ar": "خصني زيت الزيتون."
+  },
+  {
+    "cat": 1,
+    "en": "I need sugar and flour.",
+    "fr": "J'ai besoin de sucre et de farine.",
+    "ar": "خصني سكر ودقيق."
+  },
+  {
+    "cat": 1,
+    "en": "Can I taste this?",
+    "fr": "Puis-je goûter ceci?",
+    "ar": "واش نقدر نذوق هاد الشي؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need washing powder.",
+    "fr": "J'ai besoin de lessive.",
+    "ar": "خصني ليسيف."
+  },
+  {
+    "cat": 1,
+    "en": "Where are the frozen foods?",
+    "fr": "Où sont les produits surgelés?",
+    "ar": "فين كاينين المنتجات المجمدة؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need a new frying pan.",
+    "fr": "J'ai besoin d'une nouvelle poêle.",
+    "ar": "خصني طنجرة جديدة."
+  },
+  {
+    "cat": 1,
+    "en": "I need to buy coffee.",
+    "fr": "Je dois acheter du café.",
+    "ar": "خصني نشري قهوة."
+  },
+  {
+    "cat": 1,
+    "en": "Where are the spices?",
+    "fr": "Où sont les épices?",
+    "ar": "فين كاينين التوابل؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need a new toothbrush.",
+    "fr": "J'ai besoin d'une nouvelle brosse à dents.",
+    "ar": "خصني فرشاة أسنان جديدة."
+  },
+  {
+    "cat": 1,
+    "en": "I need to buy new shoes.",
+    "fr": "Je dois acheter de nouvelles chaussures.",
+    "ar": "خصني نشري سبابط جدد."
+  },
+  {
+    "cat": 1,
+    "en": "I need black pants.",
+    "fr": "J'ai besoin d'un pantalon noir.",
+    "ar": "خصني سروال أسود."
+  },
+  {
+    "cat": 1,
+    "en": "I need to buy a raincoat.",
+    "fr": "Je dois acheter un imperméable.",
+    "ar": "خصني نشري قبوط ديال الشتا."
+  },
+  {
+    "cat": 1,
+    "en": "I need batteries.",
+    "fr": "J'ai besoin de piles.",
+    "ar": "خصني بيلات."
+  },
+  {
+    "cat": 1,
+    "en": "Where is the electronics section?",
+    "fr": "Où est le rayon électronique?",
+    "ar": "فين كاين قسم الإلكترونيك؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need to buy flowers.",
+    "fr": "Je dois acheter des fleurs.",
+    "ar": "خصني نشري ورد."
+  },
+  {
+    "cat": 1,
+    "en": "Where is the toy section?",
+    "fr": "Où est le rayon jouets?",
+    "ar": "فين كاين قسم الألعاب؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need to buy a watch.",
+    "fr": "Je dois acheter une montre.",
+    "ar": "خصني نشري مونتر."
+  },
+  {
+    "cat": 1,
+    "en": "I need a new wallet.",
+    "fr": "J'ai besoin d'un nouveau portefeuille.",
+    "ar": "خصني بزدان جديد."
+  },
+  {
+    "cat": 1,
+    "en": "I need to buy sunglasses.",
+    "fr": "Je dois acheter des lunettes de soleil.",
+    "ar": "خصني نشري نظارات الشمس."
+  },
+  {
+    "cat": 1,
+    "en": "Where are the books?",
+    "fr": "Où sont les livres?",
+    "ar": "فين كاينين الكتب؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need a notebook.",
+    "fr": "J'ai besoin d'un cahier.",
+    "ar": "خصني كراسة."
+  },
+  {
+    "cat": 1,
+    "en": "I need to buy a belt.",
+    "fr": "Je dois acheter une ceinture.",
+    "ar": "خصني نشري حزام."
+  },
+  {
+    "cat": 1,
+    "en": "I need a new umbrella.",
+    "fr": "J'ai besoin d'un nouveau parapluie.",
+    "ar": "خصني شمسية جديدة."
+  },
+  {
+    "cat": 1,
+    "en": "Do you have new arrivals?",
+    "fr": "Avez-vous de nouveaux arrivages?",
+    "ar": "واش عندكم جديد وصل؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need a phone case.",
+    "fr": "J'ai besoin d'une coque de téléphone.",
+    "ar": "خصني غطاء للتيليفون."
+  },
+  {
+    "cat": 1,
+    "en": "This color does not suit me.",
+    "fr": "Cette couleur ne me va pas.",
+    "ar": "هاد اللون ما كيناسبنيش."
+  },
+  {
+    "cat": 1,
+    "en": "I need a laptop bag.",
+    "fr": "J'ai besoin d'un sac pour ordinateur.",
+    "ar": "خصني شنطة للبورطابل."
+  },
+  {
+    "cat": 1,
+    "en": "Do you have gift cards?",
+    "fr": "Avez-vous des cartes cadeaux?",
+    "ar": "واش عندكم كارطات هدايا؟"
+  },
+  {
+    "cat": 1,
+    "en": "This is not my size.",
+    "fr": "Ce n'est pas ma taille.",
+    "ar": "هاد الحجم ماشي ديالي."
+  },
+  {
+    "cat": 1,
+    "en": "Can I have a paper bag?",
+    "fr": "Puis-je avoir un sac en papier?",
+    "ar": "واش تعطيني كيس ورق؟"
+  },
+  {
+    "cat": 1,
+    "en": "This is a good deal.",
+    "fr": "C'est une bonne affaire.",
+    "ar": "هاد الشي رخيص مزيان."
+  },
+  {
+    "cat": 1,
+    "en": "Can I return this tomorrow?",
+    "fr": "Puis-je retourner ceci demain?",
+    "ar": "واش نقدر نرجع هاد الشي غدا؟"
+  },
+  {
+    "cat": 1,
+    "en": "Do you do home delivery?",
+    "fr": "Faites-vous la livraison à domicile?",
+    "ar": "واش كتوصلو للدار؟"
+  },
+  {
+    "cat": 1,
+    "en": "The bread is fresh today.",
+    "fr": "Le pain est frais aujourd'hui.",
+    "ar": "الخبز طازج اليوم."
+  },
+  {
+    "cat": 1,
+    "en": "I need to buy school supplies.",
+    "fr": "Je dois acheter des fournitures scolaires.",
+    "ar": "خصني نشري لوازم مدرسية."
+  },
+  {
+    "cat": 1,
+    "en": "I need a jacket.",
+    "fr": "J'ai besoin d'une veste.",
+    "ar": "خصني جاكيطة."
+  },
+  {
+    "cat": 1,
+    "en": "Do you sell organic food?",
+    "fr": "Vendez-vous des aliments bio?",
+    "ar": "واش كتبيعو ماكلة بيو؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need a shopping list.",
+    "fr": "J'ai besoin d'une liste de courses.",
+    "ar": "خصني قائمة التسوق."
+  },
+  {
+    "cat": 1,
+    "en": "This shirt is too big.",
+    "fr": "Cette chemise est trop grande.",
+    "ar": "هاد القميصة كبيرة بزاف."
+  },
+  {
+    "cat": 1,
+    "en": "I need a larger bottle.",
+    "fr": "J'ai besoin d'une plus grande bouteille.",
+    "ar": "خصني قارورة أكبر."
+  },
+  {
+    "cat": 1,
+    "en": "I need washing liquid.",
+    "fr": "J'ai besoin de liquide vaisselle.",
+    "ar": "خصني سائل الصحون."
+  },
+  {
+    "cat": 1,
+    "en": "Where are the dairy products?",
+    "fr": "Où sont les produits laitiers?",
+    "ar": "فين كاينين منتجات الحليب؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need to buy a suitcase.",
+    "fr": "Je dois acheter une valise.",
+    "ar": "خصني نشري شنطة سفر."
+  },
+  {
+    "cat": 1,
+    "en": "Do you have a bigger size?",
+    "fr": "Avez-vous une taille plus grande?",
+    "ar": "واش عندك حجم أكبر؟"
+  },
+  {
+    "cat": 1,
+    "en": "I need a baby gift.",
+    "fr": "J'ai besoin d'un cadeau pour bébé.",
+    "ar": "خصني هدية للبيبي."
+  },
+  {
+    "cat": 1,
+    "en": "This jacket is on sale.",
+    "fr": "Cette veste est en promotion.",
+    "ar": "هاد الجاكيطة فالسولد."
+  },
+  {
+    "cat": 1,
+    "en": "I lost my shopping bag.",
+    "fr": "J'ai perdu mon sac de courses.",
+    "ar": "ضيعت الكيس ديال التسوق."
+  },
+  {
+    "cat": 1,
+    "en": "Can I pay by phone?",
+    "fr": "Puis-je payer par téléphone?",
+    "ar": "واش نقدر نخلص بالتيليفون؟"
+  },
+  {
+    "cat": 2,
+    "en": "I need to lose weight.",
+    "fr": "Je dois perdre du poids.",
+    "ar": "خصني ننقص فالوزن."
+  },
+  {
+    "cat": 2,
+    "en": "I need to check my blood sugar.",
+    "fr": "Je dois vérifier ma glycémie.",
+    "ar": "خصني نشوف السكر ديالي."
+  },
+  {
+    "cat": 2,
+    "en": "I have chest pain.",
+    "fr": "J'ai des douleurs à la poitrine.",
+    "ar": "عندي وجع فالصدر."
+  },
+  {
+    "cat": 2,
+    "en": "I sprained my ankle.",
+    "fr": "Je me suis foulé la cheville.",
+    "ar": "فرصت كاحلي."
+  },
+  {
+    "cat": 2,
+    "en": "I need vitamins.",
+    "fr": "J'ai besoin de vitamines.",
+    "ar": "خصني فيتامينات."
+  },
+  {
+    "cat": 2,
+    "en": "My knee hurts.",
+    "fr": "Mon genou me fait mal.",
+    "ar": "ركبتي كتوجعني."
+  },
+  {
+    "cat": 2,
+    "en": "I have insomnia.",
+    "fr": "J'ai de l'insomnie.",
+    "ar": "عندي أرق."
+  },
+  {
+    "cat": 2,
+    "en": "I have a skin rash.",
+    "fr": "J'ai une éruption cutanée.",
+    "ar": "عندي طفح جلدي."
+  },
+  {
+    "cat": 2,
+    "en": "I feel very tired.",
+    "fr": "Je me sens très fatigué.",
+    "ar": "كنحس بعياء بزاف."
+  },
+  {
+    "cat": 2,
+    "en": "I have low blood pressure.",
+    "fr": "J'ai une hypotension.",
+    "ar": "عندي ضغط الدم منخفض."
+  },
+  {
+    "cat": 2,
+    "en": "I have a burn.",
+    "fr": "J'ai une brûlure.",
+    "ar": "عندي حرقة."
+  },
+  {
+    "cat": 2,
+    "en": "I need to drink more water.",
+    "fr": "Je dois boire plus d'eau.",
+    "ar": "خصني نشرب الما أكثر."
+  },
+  {
+    "cat": 2,
+    "en": "I need a wheelchair.",
+    "fr": "J'ai besoin d'un fauteuil roulant.",
+    "ar": "خصني كرسي متحرك."
+  },
+  {
+    "cat": 2,
+    "en": "I need crutches.",
+    "fr": "J'ai besoin de béquilles.",
+    "ar": "خصني عكازات."
+  },
+  {
+    "cat": 2,
+    "en": "I need sunscreen.",
+    "fr": "J'ai besoin de crème solaire.",
+    "ar": "خصني كريم ضد الشمس."
+  },
+  {
+    "cat": 2,
+    "en": "I have a swollen foot.",
+    "fr": "J'ai le pied gonflé.",
+    "ar": "رجلي منتفخة."
+  },
+  {
+    "cat": 2,
+    "en": "I need to rest.",
+    "fr": "J'ai besoin de me reposer.",
+    "ar": "خصني نرتاح."
+  },
+  {
+    "cat": 2,
+    "en": "I have a blister.",
+    "fr": "J'ai une ampoule.",
+    "ar": "عندي فقاعة."
+  },
+  {
+    "cat": 2,
+    "en": "I need an eye test.",
+    "fr": "J'ai besoin d'un examen des yeux.",
+    "ar": "خصني فحص العيون."
+  },
+  {
+    "cat": 2,
+    "en": "I need to stop smoking.",
+    "fr": "Je dois arrêter de fumer.",
+    "ar": "خصني نوقف التدخين."
+  },
+  {
+    "cat": 2,
+    "en": "I have food poisoning.",
+    "fr": "J'ai une intoxication alimentaire.",
+    "ar": "عندي تسمم من الماكلة."
+  },
+  {
+    "cat": 2,
+    "en": "I need to do more exercise.",
+    "fr": "Je dois faire plus d'exercice.",
+    "ar": "خصني نديرو رياضة أكثر."
+  },
+  {
+    "cat": 2,
+    "en": "I have a pulled muscle.",
+    "fr": "J'ai un muscle froissé.",
+    "ar": "عندي تشنج فالعضلة."
+  },
+  {
+    "cat": 2,
+    "en": "I need antiseptic cream.",
+    "fr": "J'ai besoin de crème antiseptique.",
+    "ar": "خصني كريم مطهر."
+  },
+  {
+    "cat": 2,
+    "en": "My ear hurts.",
+    "fr": "Mon oreille me fait mal.",
+    "ar": "دني كتوجعني."
+  },
+  {
+    "cat": 2,
+    "en": "I need to check my cholesterol.",
+    "fr": "Je dois vérifier mon cholestérol.",
+    "ar": "خصني نشوف الكوليسترول ديالي."
+  },
+  {
+    "cat": 2,
+    "en": "I have a nosebleed.",
+    "fr": "J'ai un saignement de nez.",
+    "ar": "عندي دم من الأنف."
+  },
+  {
+    "cat": 2,
+    "en": "I need an ambulance.",
+    "fr": "J'ai besoin d'une ambulance.",
+    "ar": "خصني سيارة الإسعاف."
+  },
+  {
+    "cat": 2,
+    "en": "I am recovering from surgery.",
+    "fr": "Je récupère d'une opération.",
+    "ar": "كنتعافى من العملية."
+  },
+  {
+    "cat": 2,
+    "en": "I need a second opinion.",
+    "fr": "J'ai besoin d'un deuxième avis.",
+    "ar": "خصني رأي طبيب آخر."
+  },
+  {
+    "cat": 2,
+    "en": "I have joint pain.",
+    "fr": "J'ai des douleurs articulaires.",
+    "ar": "عندي وجع فالمفاصل."
+  },
+  {
+    "cat": 2,
+    "en": "I need to take this medication.",
+    "fr": "Je dois prendre ce médicament.",
+    "ar": "خصني ناخد هاد الدواء."
+  },
+  {
+    "cat": 2,
+    "en": "I have high cholesterol.",
+    "fr": "J'ai du cholestérol élevé.",
+    "ar": "عندي كوليسترول مرتفع."
+  },
+  {
+    "cat": 2,
+    "en": "I need physiotherapy.",
+    "fr": "J'ai besoin de kinésithérapie.",
+    "ar": "خصني علاج طبيعي."
+  },
+  {
+    "cat": 2,
+    "en": "My vision is blurry.",
+    "fr": "Ma vue est floue.",
+    "ar": "بصري مشوش."
+  },
+  {
+    "cat": 2,
+    "en": "I need a hearing test.",
+    "fr": "J'ai besoin d'un audiogramme.",
+    "ar": "خصني فحص السمع."
+  },
+  {
+    "cat": 2,
+    "en": "I have a throat infection.",
+    "fr": "J'ai une infection à la gorge.",
+    "ar": "عندي عدوى فالحلق."
+  },
+  {
+    "cat": 2,
+    "en": "I need to see a specialist.",
+    "fr": "Je dois voir un spécialiste.",
+    "ar": "خصني نشوف متخصص."
+  },
+  {
+    "cat": 2,
+    "en": "I have epilepsy.",
+    "fr": "J'ai de l'épilepsie.",
+    "ar": "عندي صرع."
+  },
+  {
+    "cat": 2,
+    "en": "I need new glasses.",
+    "fr": "J'ai besoin de nouvelles lunettes.",
+    "ar": "خصني نظارات جديدة."
+  },
+  {
+    "cat": 2,
+    "en": "I have a migraine.",
+    "fr": "J'ai une migraine.",
+    "ar": "عندي ميغرين."
+  },
+  {
+    "cat": 2,
+    "en": "I need to check my kidneys.",
+    "fr": "Je dois vérifier mes reins.",
+    "ar": "خصني نفحص الكليتين ديالي."
+  },
+  {
+    "cat": 2,
+    "en": "I have anemia.",
+    "fr": "J'ai de l'anémie.",
+    "ar": "عندي فقر الدم."
+  },
+  {
+    "cat": 2,
+    "en": "I need iron supplements.",
+    "fr": "J'ai besoin de suppléments en fer.",
+    "ar": "خصني مكملات الحديد."
+  },
+  {
+    "cat": 2,
+    "en": "I have a wrist injury.",
+    "fr": "J'ai une blessure au poignet.",
+    "ar": "عندي إصابة فالرسغ."
+  },
+  {
+    "cat": 2,
+    "en": "I need to change my diet.",
+    "fr": "Je dois changer mon alimentation.",
+    "ar": "خصني نبدل النظام الغذائي ديالي."
+  },
+  {
+    "cat": 2,
+    "en": "I feel short of breath.",
+    "fr": "J'ai du mal à respirer.",
+    "ar": "عندي صعوبة فالتنفس."
+  },
+  {
+    "cat": 2,
+    "en": "I need a flu vaccine.",
+    "fr": "J'ai besoin d'un vaccin contre la grippe.",
+    "ar": "خصني تطعيم ضد الإنفلونزا."
+  },
+  {
+    "cat": 2,
+    "en": "I have a frozen shoulder.",
+    "fr": "J'ai une épaule gelée.",
+    "ar": "عندي تيبس فالكتف."
+  },
+  {
+    "cat": 2,
+    "en": "I need to schedule a scan.",
+    "fr": "Je dois programmer un scanner.",
+    "ar": "خصني نحجز سكانير."
+  },
+  {
+    "cat": 3,
+    "en": "I enjoy reading books.",
+    "fr": "J'aime lire des livres.",
+    "ar": "كنبغي نقرا الكتب."
+  },
+  {
+    "cat": 3,
+    "en": "What is your hobby?",
+    "fr": "Quel est votre passe-temps?",
+    "ar": "أشنو هو الهواية ديالك؟"
+  },
+  {
+    "cat": 3,
+    "en": "I like watching football.",
+    "fr": "J'aime regarder le football.",
+    "ar": "كنبغي نتفرج على الكرة."
+  },
+  {
+    "cat": 3,
+    "en": "Do you have social media?",
+    "fr": "Avez-vous les réseaux sociaux?",
+    "ar": "واش عندك صوشيال ميديا؟"
+  },
+  {
+    "cat": 3,
+    "en": "I am a student.",
+    "fr": "Je suis étudiant.",
+    "ar": "أنا طالب."
+  },
+  {
+    "cat": 3,
+    "en": "I graduated last year.",
+    "fr": "J'ai été diplômé l'année dernière.",
+    "ar": "تخرجت العام اللي فات."
+  },
+  {
+    "cat": 3,
+    "en": "What do you study?",
+    "fr": "Qu'est-ce que vous étudiez?",
+    "ar": "أشنو كتقرا؟"
+  },
+  {
+    "cat": 3,
+    "en": "I love cooking.",
+    "fr": "J'adore cuisiner.",
+    "ar": "كنعشق الطبخ."
+  },
+  {
+    "cat": 3,
+    "en": "Can you help me learn French?",
+    "fr": "Pouvez-vous m'aider à apprendre le français?",
+    "ar": "واش تقدر تعاونني نتعلم الفرنسية؟"
+  },
+  {
+    "cat": 3,
+    "en": "I like going to the cinema.",
+    "fr": "J'aime aller au cinéma.",
+    "ar": "كنبغي نمشي للسينيما."
+  },
+  {
+    "cat": 3,
+    "en": "My family is very important to me.",
+    "fr": "Ma famille est très importante pour moi.",
+    "ar": "العائلة ديالي مهمة بزاف ليا."
+  },
+  {
+    "cat": 3,
+    "en": "I have a sister and a brother.",
+    "fr": "J'ai une sœur et un frère.",
+    "ar": "عندي خت وخو."
+  },
+  {
+    "cat": 3,
+    "en": "I live with my parents.",
+    "fr": "Je vis avec mes parents.",
+    "ar": "كنسكن مع والديّ."
+  },
+  {
+    "cat": 3,
+    "en": "I enjoy hiking.",
+    "fr": "J'aime faire de la randonnée.",
+    "ar": "كنبغي المشي فالجبل."
+  },
+  {
+    "cat": 3,
+    "en": "Do you play any sports?",
+    "fr": "Pratiquez-vous un sport?",
+    "ar": "واش كتمارس شي رياضة؟"
+  },
+  {
+    "cat": 3,
+    "en": "I love the beach.",
+    "fr": "J'adore la plage.",
+    "ar": "كنعشق البلاج."
+  },
+  {
+    "cat": 3,
+    "en": "I am learning to cook.",
+    "fr": "J'apprends à cuisiner.",
+    "ar": "كنتعلم الطبخ."
+  },
+  {
+    "cat": 3,
+    "en": "Can we be friends?",
+    "fr": "Pouvons-nous être amis?",
+    "ar": "واش نكونو صحاب؟"
+  },
+  {
+    "cat": 3,
+    "en": "I enjoy music.",
+    "fr": "J'aime la musique.",
+    "ar": "كنبغي الموسيقى."
+  },
+  {
+    "cat": 3,
+    "en": "What music do you like?",
+    "fr": "Quelle musique aimez-vous?",
+    "ar": "أشنو الموسيقى لي كتحب؟"
+  },
+  {
+    "cat": 3,
+    "en": "I play guitar.",
+    "fr": "Je joue de la guitare.",
+    "ar": "كنعزف على الغيتار."
+  },
+  {
+    "cat": 3,
+    "en": "I enjoy painting.",
+    "fr": "J'aime peindre.",
+    "ar": "كنبغي الرسم."
+  },
+  {
+    "cat": 3,
+    "en": "I love traveling.",
+    "fr": "J'adore voyager.",
+    "ar": "كنعشق السفر."
+  },
+  {
+    "cat": 3,
+    "en": "I have a cat.",
+    "fr": "J'ai un chat.",
+    "ar": "عندي قطة."
+  },
+  {
+    "cat": 3,
+    "en": "I enjoy photography.",
+    "fr": "J'aime la photographie.",
+    "ar": "كنبغي التصوير."
+  },
+  {
+    "cat": 3,
+    "en": "Can we have dinner together?",
+    "fr": "Pouvons-nous dîner ensemble?",
+    "ar": "واش نقدرو ناكلو العشا مع بعض؟"
+  },
+  {
+    "cat": 3,
+    "en": "I enjoy dancing.",
+    "fr": "J'aime danser.",
+    "ar": "كنبغي الرقص."
+  },
+  {
+    "cat": 3,
+    "en": "I love nature.",
+    "fr": "J'adore la nature.",
+    "ar": "كنعشق الطبيعة."
+  },
+  {
+    "cat": 3,
+    "en": "Do you have pets?",
+    "fr": "Avez-vous des animaux de compagnie?",
+    "ar": "واش عندك حيوانات ديال المنزل؟"
+  },
+  {
+    "cat": 3,
+    "en": "I enjoy cycling.",
+    "fr": "J'aime faire du vélo.",
+    "ar": "كنبغي ركوب الدراجة."
+  },
+  {
+    "cat": 3,
+    "en": "I watch a lot of movies.",
+    "fr": "Je regarde beaucoup de films.",
+    "ar": "كنشوف أفلام بزاف."
+  },
+  {
+    "cat": 3,
+    "en": "I am a big football fan.",
+    "fr": "Je suis un grand fan de football.",
+    "ar": "أنا فان كبير ديال الكرة."
+  },
+  {
+    "cat": 3,
+    "en": "I enjoy swimming.",
+    "fr": "J'aime nager.",
+    "ar": "كنبغي العوم."
+  },
+  {
+    "cat": 3,
+    "en": "What is your favorite food?",
+    "fr": "Quel est votre plat préféré?",
+    "ar": "أشنو هو الأكل المفضل ديالك؟"
+  },
+  {
+    "cat": 3,
+    "en": "I love Moroccan tea.",
+    "fr": "J'adore le thé marocain.",
+    "ar": "كنعشق أتاي المغربي."
+  },
+  {
+    "cat": 3,
+    "en": "I go to the gym every day.",
+    "fr": "Je vais à la salle de sport tous les jours.",
+    "ar": "كنمشي للجيم كل يوم."
+  },
+  {
+    "cat": 3,
+    "en": "I enjoy volunteering.",
+    "fr": "J'aime faire du bénévolat.",
+    "ar": "كنبغي التطوع."
+  },
+  {
+    "cat": 3,
+    "en": "I love spending time outdoors.",
+    "fr": "J'adore passer du temps dehors.",
+    "ar": "كنعشق نقضي الوقت برا."
+  },
+  {
+    "cat": 3,
+    "en": "I enjoy board games.",
+    "fr": "J'aime les jeux de société.",
+    "ar": "كنبغي ألعاب الطاولة."
+  },
+  {
+    "cat": 3,
+    "en": "I like to meditate.",
+    "fr": "J'aime méditer.",
+    "ar": "كنبغي التأمل."
+  },
+  {
+    "cat": 3,
+    "en": "I read every morning.",
+    "fr": "Je lis chaque matin.",
+    "ar": "كنقرا كل صباح."
+  },
+  {
+    "cat": 3,
+    "en": "I enjoy writing.",
+    "fr": "J'aime écrire.",
+    "ar": "كنبغي الكتابة."
+  },
+  {
+    "cat": 3,
+    "en": "I like going to the park.",
+    "fr": "J'aime aller au parc.",
+    "ar": "كنبغي نمشي للحديقة."
+  },
+  {
+    "cat": 3,
+    "en": "I love ice cream.",
+    "fr": "J'adore la glace.",
+    "ar": "كنعشق الكريمو."
+  },
+  {
+    "cat": 3,
+    "en": "What is your favorite movie?",
+    "fr": "Quel est votre film préféré?",
+    "ar": "أشنو هو الفيلم المفضل ديالك؟"
+  },
+  {
+    "cat": 3,
+    "en": "I enjoy cooking with my family.",
+    "fr": "J'aime cuisiner avec ma famille.",
+    "ar": "كنبغي نطيب مع العائلة."
+  },
+  {
+    "cat": 3,
+    "en": "I like going to concerts.",
+    "fr": "J'aime aller aux concerts.",
+    "ar": "كنبغي نمشي للكونسيرات."
+  },
+  {
+    "cat": 3,
+    "en": "My dream is to travel the world.",
+    "fr": "Mon rêve est de voyager dans le monde entier.",
+    "ar": "الحلم ديالي هو السفر في العالم."
+  },
+  {
+    "cat": 3,
+    "en": "I am learning to drive.",
+    "fr": "J'apprends à conduire.",
+    "ar": "كنتعلم السياقة."
+  },
+  {
+    "cat": 3,
+    "en": "I love Ramadan.",
+    "fr": "J'adore le Ramadan.",
+    "ar": "كنعشق رمضان."
+  },
+  {
+    "cat": 4,
+    "en": "I need to charge my phone.",
+    "fr": "Je dois charger mon téléphone.",
+    "ar": "خصني نشارج التيليفون ديالي."
+  },
+  {
+    "cat": 4,
+    "en": "Where can I find a pharmacy?",
+    "fr": "Où puis-je trouver une pharmacie?",
+    "ar": "فين نلقى صيدلية؟"
+  },
+  {
+    "cat": 4,
+    "en": "Is there a supermarket nearby?",
+    "fr": "Y a-t-il un supermarché à proximité?",
+    "ar": "واش كاين سوبيرمارشي قريب؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need a city tour.",
+    "fr": "J'ai besoin d'une visite guidée.",
+    "ar": "خصني جولة فالمدينة."
+  },
+  {
+    "cat": 4,
+    "en": "How do I get to the center?",
+    "fr": "Comment aller au centre-ville?",
+    "ar": "كيفاش نوصل لوسط المدينة؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need to extend my stay.",
+    "fr": "Je dois prolonger mon séjour.",
+    "ar": "خصني نمدد الإقامة ديالي."
+  },
+  {
+    "cat": 4,
+    "en": "Is there public transport?",
+    "fr": "Y a-t-il des transports en commun?",
+    "ar": "واش كاين نقل عام؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need to find a bank.",
+    "fr": "Je dois trouver une banque.",
+    "ar": "خصني نلقى بنك."
+  },
+  {
+    "cat": 4,
+    "en": "Is there a night bus?",
+    "fr": "Y a-t-il un bus de nuit?",
+    "ar": "واش كاين طوبيس ديال الليل؟"
+  },
+  {
+    "cat": 4,
+    "en": "The hotel has no hot water.",
+    "fr": "L'hôtel n'a pas d'eau chaude.",
+    "ar": "الأوطيل ما فيهش ما سخون."
+  },
+  {
+    "cat": 4,
+    "en": "I need directions to the mosque.",
+    "fr": "J'ai besoin d'indications pour la mosquée.",
+    "ar": "خصني الطريق للمسجد."
+  },
+  {
+    "cat": 4,
+    "en": "Can I store my luggage here?",
+    "fr": "Puis-je stocker mes bagages ici?",
+    "ar": "واش نقدر نخزن شنطتي هنا؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need a plug adapter.",
+    "fr": "J'ai besoin d'un adaptateur.",
+    "ar": "خصني محول كهربائي."
+  },
+  {
+    "cat": 4,
+    "en": "Is there parking nearby?",
+    "fr": "Y a-t-il un parking à proximité?",
+    "ar": "واش كاين باركينغ قريب؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need to book online.",
+    "fr": "Je dois réserver en ligne.",
+    "ar": "خصني نحجز على النت."
+  },
+  {
+    "cat": 4,
+    "en": "Where is the local market?",
+    "fr": "Où est le marché local?",
+    "ar": "فين كاينة السوق المحلية؟"
+  },
+  {
+    "cat": 4,
+    "en": "I am visiting for a week.",
+    "fr": "Je visite pour une semaine.",
+    "ar": "كنزور لمدة أسبوع."
+  },
+  {
+    "cat": 4,
+    "en": "What is the local specialty?",
+    "fr": "Quelle est la spécialité locale?",
+    "ar": "أشنو هو الأكل المحلي المعروف؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need a local SIM card.",
+    "fr": "J'ai besoin d'une carte SIM locale.",
+    "ar": "خصني شريحة محلية."
+  },
+  {
+    "cat": 4,
+    "en": "Is it safe to walk at night?",
+    "fr": "Est-il sécurisé de marcher la nuit?",
+    "ar": "واش آمن نمشي بالليل؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need a return ticket.",
+    "fr": "J'ai besoin d'un billet aller-retour.",
+    "ar": "خصني تيكي ذهاب وإياب."
+  },
+  {
+    "cat": 4,
+    "en": "Where can I rent a bike?",
+    "fr": "Où puis-je louer un vélo?",
+    "ar": "فين نقدر نكري دراجة؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need a travel adapter.",
+    "fr": "J'ai besoin d'un adaptateur de voyage.",
+    "ar": "خصني محول للسفر."
+  },
+  {
+    "cat": 4,
+    "en": "Is the museum open on Sunday?",
+    "fr": "Le musée est-il ouvert le dimanche?",
+    "ar": "واش المتحف مفتوح نهار الأحد؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need to find a post office.",
+    "fr": "Je dois trouver une poste.",
+    "ar": "خصني نلقى البريد."
+  },
+  {
+    "cat": 4,
+    "en": "How long is the visa valid?",
+    "fr": "Combien de temps le visa est-il valide?",
+    "ar": "شحال هي مدة الفيزا؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need to declare this at customs.",
+    "fr": "Je dois déclarer ceci à la douane.",
+    "ar": "خصني نصرح بهاد الشي فالديوانة."
+  },
+  {
+    "cat": 4,
+    "en": "Where is the train platform?",
+    "fr": "Où est le quai?",
+    "ar": "فين كاين رصيف القطار؟"
+  },
+  {
+    "cat": 4,
+    "en": "Can I bring food on the plane?",
+    "fr": "Puis-je apporter de la nourriture dans l'avion?",
+    "ar": "واش نقدر ندخل ماكلة فالطيارة؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need to find my gate.",
+    "fr": "Je dois trouver ma porte d'embarquement.",
+    "ar": "خصني نلقى بورطا ديالي."
+  },
+  {
+    "cat": 4,
+    "en": "Is there a discount for students?",
+    "fr": "Y a-t-il une réduction pour les étudiants?",
+    "ar": "واش كاين تخفيض للطلاب؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need travel documents.",
+    "fr": "J'ai besoin de documents de voyage.",
+    "ar": "خصني وثائق السفر."
+  },
+  {
+    "cat": 4,
+    "en": "The flight is overbooked.",
+    "fr": "Le vol est surréservé.",
+    "ar": "الطيارة مكتملة."
+  },
+  {
+    "cat": 4,
+    "en": "I missed my train.",
+    "fr": "J'ai manqué mon train.",
+    "ar": "فاتني القطار."
+  },
+  {
+    "cat": 4,
+    "en": "Can I change my flight?",
+    "fr": "Puis-je modifier mon vol?",
+    "ar": "واش نقدر نبدل رحلتي؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need a first class ticket.",
+    "fr": "J'ai besoin d'un billet première classe.",
+    "ar": "خصني تيكي ديال الدرجة الأولى."
+  },
+  {
+    "cat": 4,
+    "en": "Is food included in the ticket?",
+    "fr": "La nourriture est-elle incluse dans le billet?",
+    "ar": "واش الماكلة داخلة فالتيكي؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need a baby seat on the plane.",
+    "fr": "J'ai besoin d'un siège bébé dans l'avion.",
+    "ar": "خصني كرسي للطفل فالطيارة."
+  },
+  {
+    "cat": 4,
+    "en": "Can I bring my pet?",
+    "fr": "Puis-je amener mon animal?",
+    "ar": "واش نقدر نجيب الحيوان ديالي؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need to refuel the car.",
+    "fr": "Je dois faire le plein.",
+    "ar": "خصني نعمر البنزين."
+  },
+  {
+    "cat": 4,
+    "en": "Where is the nearest gas station?",
+    "fr": "Où est la station-service la plus proche?",
+    "ar": "فين كاينة أقرب محطة البنزين؟"
+  },
+  {
+    "cat": 4,
+    "en": "I have a flat tire.",
+    "fr": "J'ai un pneu crevé.",
+    "ar": "عندي بانة."
+  },
+  {
+    "cat": 4,
+    "en": "I need a road map.",
+    "fr": "J'ai besoin d'une carte routière.",
+    "ar": "خصني خريطة الطرق."
+  },
+  {
+    "cat": 4,
+    "en": "The GPS is not working.",
+    "fr": "Le GPS ne fonctionne pas.",
+    "ar": "الGPS ما خدامش."
+  },
+  {
+    "cat": 4,
+    "en": "I need to pay the toll.",
+    "fr": "Je dois payer le péage.",
+    "ar": "خصني نخلص الطريق السيار."
+  },
+  {
+    "cat": 4,
+    "en": "Can I park here?",
+    "fr": "Puis-je me garer ici?",
+    "ar": "واش نقدر نوقف السيارة هنا؟"
+  },
+  {
+    "cat": 4,
+    "en": "I need to pick someone up.",
+    "fr": "Je dois aller chercher quelqu'un.",
+    "ar": "خصني نستقبل شي حد."
+  },
+  {
+    "cat": 4,
+    "en": "The road is blocked.",
+    "fr": "La route est bloquée.",
+    "ar": "الطريق مسدود."
+  },
+  {
+    "cat": 4,
+    "en": "I need directions to the highway.",
+    "fr": "J'ai besoin d'indications pour l'autoroute.",
+    "ar": "خصني الطريق للأوطوروط."
+  },
+  {
+    "cat": 4,
+    "en": "Is this the right road?",
+    "fr": "Est-ce la bonne route?",
+    "ar": "واش هاد الطريق صحيح؟"
+  },
+  {
+    "cat": 3,
+    "en": "I enjoy learning new languages.",
+    "fr": "J aime apprendre de nouvelles langues.",
+    "ar": "كنبغي نتعلم لغات جديدة."
+  },
+  {
+    "cat": 4,
+    "en": "I need to book a return flight.",
+    "fr": "Je dois réserver un vol retour.",
+    "ar": "خصني نحجز رحلة الرجوع."
+  }
+]
