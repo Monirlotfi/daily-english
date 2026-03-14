@@ -1,7 +1,6 @@
 // ─────────────────────────────────────────────
 //  Daily English — app.js
-//  501 phrases loaded from phrases.json
-//  No API needed — 100% offline
+//  501 phrases + Android TTS fix
 // ─────────────────────────────────────────────
 
 const CATS = ["Work", "Shopping", "Health", "Social", "Travel"];
@@ -18,9 +17,27 @@ window.addEventListener("load", async () => {
   setupCats();
   setupLang();
   showSentences();
+  initTTS();
 });
 
-// ── Load phrases.json once ────────────────────
+// ── TTS Init — fix Android WebView ────────────
+let ttsReady = false;
+let ttsQueue = null;
+
+function initTTS() {
+  if (!window.speechSynthesis) return;
+  // Android WebView needs a user gesture to unlock TTS
+  // Pre-load voices
+  const tryLoad = () => {
+    const voices = speechSynthesis.getVoices();
+    if (voices.length > 0) { ttsReady = true; return; }
+    setTimeout(tryLoad, 200);
+  };
+  speechSynthesis.onvoiceschanged = () => { ttsReady = true; };
+  tryLoad();
+}
+
+// ── Load phrases.json ─────────────────────────
 async function loadPhrases() {
   try {
     const res = await fetch("phrases.json");
@@ -30,24 +47,14 @@ async function loadPhrases() {
   }
 }
 
-// ── Get 3 random phrases for category ─────────
+// ── Get 3 random phrases ──────────────────────
 function getRandomPhrases(catId) {
   const pool = allPhrases.filter(p => p.cat === catId);
   if (!usedIndexes[catId]) usedIndexes[catId] = [];
-
-  // Reset if all used
   if (usedIndexes[catId].length >= pool.length) usedIndexes[catId] = [];
-
   const available = pool.filter((_, i) => !usedIndexes[catId].includes(i));
-  const shuffled  = available.sort(() => Math.random() - 0.5);
-  const selected  = shuffled.slice(0, 3);
-
-  // Track used
-  selected.forEach(s => {
-    const idx = pool.indexOf(s);
-    usedIndexes[catId].push(idx);
-  });
-
+  const selected  = available.sort(() => Math.random() - 0.5).slice(0, 3);
+  selected.forEach(s => usedIndexes[catId].push(pool.indexOf(s)));
   return selected;
 }
 
@@ -98,16 +105,13 @@ function updateProg(n) {
   document.getElementById("prog-txt").textContent  = n + " / 3";
 }
 
-// ── Show sentences (instant, no API) ──────────
+// ── Show sentences ────────────────────────────
 function showSentences() {
   if (window.speechSynthesis) speechSynthesis.cancel();
   currentBtn = null; heard.clear(); updateProg(0);
-
-  const sentences = getRandomPhrases(cat);
-  renderSentences(sentences);
+  renderSentences(getRandomPhrases(cat));
 }
 
-// Also expose as loadSentences for the refresh button
 function loadSentences() { showSentences(); }
 
 // ── Render ────────────────────────────────────
@@ -128,13 +132,13 @@ function renderSentences(sentences) {
     const enB = lang !== "fr" ? `
       <div class="s-row">
         <span class="s-en"><span style="font-size:13px">🇬🇧</span> ${esc(s.en)}</span>
-        <button class="spk en-s" data-text="${esc(s.en)}">🔊</button>
+        <button class="spk en-s" data-text="${esc(s.en)}" data-lc="en-US">🔊</button>
       </div>` : "";
 
     const frB = lang !== "en" ? `
       <div class="s-row" style="margin-top:${lang === "both" ? "4px" : "0"}">
         <span class="s-fr"><span style="font-size:13px">🇫🇷</span> ${esc(s.fr)}</span>
-        <button class="spk fr-s" data-text="${esc(s.fr)}">🔊</button>
+        <button class="spk fr-s" data-text="${esc(s.fr)}" data-lc="fr-FR">🔊</button>
       </div>` : "";
 
     card.innerHTML = `
@@ -145,12 +149,12 @@ function renderSentences(sentences) {
       <div class="div-line"></div>
       <div class="s-ar">${esc(s.ar)}</div>`;
 
-    card.querySelectorAll(".en-s").forEach(b => b.addEventListener("click", () => {
-      speak(b.dataset.text, b, "en-US", "sp-en"); markHeard(i);
-    }));
-    card.querySelectorAll(".fr-s").forEach(b => b.addEventListener("click", () => {
-      speak(b.dataset.text, b, "fr-FR", "sp-fr"); markHeard(i);
-    }));
+    card.querySelectorAll(".spk").forEach(b => {
+      b.addEventListener("click", () => {
+        speak(b.dataset.text, b, b.dataset.lc, b.classList.contains("en-s") ? "sp-en" : "sp-fr");
+        markHeard(i);
+      });
+    });
 
     content.appendChild(card);
     setTimeout(() => card.classList.add("vis"), 60 + i * 110);
@@ -162,23 +166,69 @@ function markHeard(i) {
   heard.add(i); updateProg(heard.size);
 }
 
-// ── TTS ───────────────────────────────────────
+// ── TTS — Android WebView compatible ──────────
 function speak(text, btn, lc, cls) {
-  if (!window.speechSynthesis) return;
+  if (!window.speechSynthesis) {
+    showToast("TTS not supported");
+    return;
+  }
+
   speechSynthesis.cancel();
-  if (btn.classList.contains(cls)) { btn.classList.remove(cls); currentBtn = null; return; }
+
+  if (btn.classList.contains(cls)) {
+    btn.classList.remove(cls); currentBtn = null; return;
+  }
+
   document.querySelectorAll(".spk").forEach(b => b.classList.remove("sp-en", "sp-fr"));
-  const u = new SpeechSynthesisUtterance(text);
-  u.lang = lc; u.rate = 0.88;
-  const v = speechSynthesis.getVoices().find(v => v.lang === lc && v.localService)
-         || speechSynthesis.getVoices().find(v => v.lang.startsWith(lc.split("-")[0]));
-  if (v) u.voice = v;
-  btn.classList.add(cls); currentBtn = btn;
-  u.onend = u.onerror = () => { btn.classList.remove(cls); currentBtn = null; };
-  speechSynthesis.speak(u);
+
+  // Small delay — fixes Android WebView TTS bug
+  setTimeout(() => {
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang  = lc;
+    u.rate  = 0.85;
+    u.pitch = 1;
+    u.volume = 1;
+
+    // Get best voice
+    const voices = speechSynthesis.getVoices();
+    const v = voices.find(v => v.lang === lc)
+           || voices.find(v => v.lang.startsWith(lc.split("-")[0]))
+           || voices[0];
+    if (v) u.voice = v;
+
+    btn.classList.add(cls);
+    currentBtn = btn;
+
+    u.onstart = () => btn.classList.add(cls);
+    u.onend   = () => { btn.classList.remove(cls); currentBtn = null; };
+    u.onerror = (e) => {
+      btn.classList.remove(cls);
+      currentBtn = null;
+      // Retry once on error
+      if (e.error !== "interrupted") {
+        setTimeout(() => speechSynthesis.speak(u), 300);
+      }
+    };
+
+    speechSynthesis.speak(u);
+  }, 100);
 }
 
-if (window.speechSynthesis) speechSynthesis.onvoiceschanged = () => {};
+// ── Toast ─────────────────────────────────────
+function showToast(msg) {
+  let t = document.getElementById("toast");
+  if (!t) {
+    t = document.createElement("div");
+    t.id = "toast";
+    t.style.cssText = "position:fixed;bottom:90px;left:50%;transform:translateX(-50%);background:#333;color:#fff;padding:8px 18px;border-radius:20px;font-size:12px;z-index:99;";
+    document.body.appendChild(t);
+  }
+  t.textContent = msg;
+  t.style.opacity = "1";
+  setTimeout(() => t.style.opacity = "0", 2500);
+}
+
+if (window.speechSynthesis) speechSynthesis.onvoiceschanged = () => { ttsReady = true; };
 
 function esc(s) {
   return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");

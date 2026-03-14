@@ -1,6 +1,6 @@
 {
   "appId": "com.dailyenglish.app",
-  "appName": "Daily English",
+  "appName": "Daily EN-FR",
   "webDir": "www",
   "android": {
     "allowMixedContent": true,
