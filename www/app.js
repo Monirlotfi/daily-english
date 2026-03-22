@@ -164,52 +164,24 @@ function stopTTS() {
 }
  
 async function speak(text, btn, lc, cls) {
-  // Stop any current speech
   stopTTS();
- 
-  // If same button clicked = stop
   if (currentBtn === btn) { currentBtn = null; return; }
- 
-  document.querySelectorAll(".spk").forEach(b => b.classList.remove("sp-en", "sp-fr"));
+  document.querySelectorAll(".spk").forEach(b => b.classList.remove("sp-en","sp-fr"));
   btn.classList.add(cls);
   currentBtn = btn;
- 
-  // ── NATIVE Android TTS (Capacitor plugin) ──
-  if (isNative && window.Capacitor?.Plugins?.TextToSpeech) {
-    try {
-      await window.Capacitor.Plugins.TextToSpeech.speak({
-        text: text,
-        lang: lc,
-        rate: 0.85,
-        pitch: 1.0,
-        volume: 1.0,
-        category: "ambient"
-      });
-      btn.classList.remove(cls);
-      currentBtn = null;
-    } catch (e) {
-      btn.classList.remove(cls);
-      currentBtn = null;
-    }
+
+  // Native Android TTS
+  if (window.AndroidTTS) {
+    window.AndroidTTS.speak(text, lc);
+    setTimeout(() => { btn.classList.remove(cls); currentBtn = null; }, text.length * 60);
     return;
   }
- 
-  // ── WEB TTS fallback (browser / localhost) ──
-  if (!window.speechSynthesis) {
-    btn.classList.remove(cls);
-    currentBtn = null;
-    showToast("TTS not available");
-    return;
-  }
- 
+
+  // Web fallback
+  if (!window.speechSynthesis) { btn.classList.remove(cls); return; }
   setTimeout(() => {
     const u = new SpeechSynthesisUtterance(text);
-    u.lang = lc; u.rate = 0.85; u.pitch = 1; u.volume = 1;
-    const voices = speechSynthesis.getVoices();
-    const v = voices.find(v => v.lang === lc)
-           || voices.find(v => v.lang.startsWith(lc.split("-")[0]))
-           || voices[0];
-    if (v) u.voice = v;
+    u.lang = lc; u.rate = 0.85;
     u.onend = u.onerror = () => { btn.classList.remove(cls); currentBtn = null; };
     speechSynthesis.speak(u);
   }, 100);
