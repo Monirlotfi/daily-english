@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Daily EN-FR</string>
+    <string name="title_activity_main">Daily EN-FR</string>
+    <string name="package_name">com.dailyenglish.app</string>
+    <string name="custom_url_scheme">com.dailyenglish.app</string>
+</resources>
